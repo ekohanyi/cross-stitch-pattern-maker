@@ -8,7 +8,7 @@ export default class App extends React.Component {
 		super(props);
 
 		this.state = {
-			name: "Emma"
+			name: "pattern maker placeholder"
 		}
 	}
 	render() {
