@@ -50,9 +50,23 @@ class GridSquare extends React.Component {
 		this.state = {
 			color: '#fff'
 		}
+
+		this.onCellClick = this.onCellClick.bind(this);
 	}
+
+	onCellClick() {
+		let { color } = this.state;
+
+		this.setState({ color: (color === '#fff' ? '#000' : '#fff') });
+	}
+
 	render() {
 		return (
-			<div className="cell" style={{backgroundColor: this.state.color}}></div>);
+			<div 
+				className="cell" 
+				style={{backgroundColor: this.state.color}}
+				onClick={() => this.onCellClick()}
+			>
+			</div>);
 	}
 }

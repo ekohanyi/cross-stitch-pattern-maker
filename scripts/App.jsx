@@ -29,6 +29,7 @@ export default class App extends React.Component {
 					onChange={() => this.inputChanged()} 
 					ref={input => { this.gridSizeInput = input }}
 					value={this.state.size}
+					disabled
 				/>
 				{this.state.error ? <div className="error">{this.state.error}</div> : ''}
 				<Grid size={this.state.size} />
