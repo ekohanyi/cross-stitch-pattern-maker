@@ -9,8 +9,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '226',
 	'blue': '226',
-	'hex': '#FFE2E2',
-	'row': 'row 01-01'
+	'hex': '#FFE2E2'
 },
 { 
 	'dmcID': '761', 
@@ -18,8 +17,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '201',
 	'blue': '201',
-	'hex': '#FFC9C9',
-	'row': 'row 01-02'
+	'hex': '#FFC9C9'
 },
 { 
 	'dmcID': '760', 
@@ -27,8 +25,7 @@ var dmcHexResource = [{
 	'red': '245',
 	'green': '173',
 	'blue': '173',
-	'hex': '#F5ADAD',
-	'row': 'row 01-03'
+	'hex': '#F5ADAD'
 },
 { 
 	'dmcID': '3712', 
@@ -36,8 +33,7 @@ var dmcHexResource = [{
 	'red': '241',
 	'green': '135',
 	'blue': '135',
-	'hex': '#F18787',
-	'row': 'row 01-04'
+	'hex': '#F18787'
 },
 { 
 	'dmcID': '3328', 
@@ -45,8 +41,7 @@ var dmcHexResource = [{
 	'red': '227',
 	'green': '109',
 	'blue': '109',
-	'hex': '#E36D6D',
-	'row': 'row 01-05'
+	'hex': '#E36D6D'
 },
 { 
 	'dmcID': '347', 
@@ -54,8 +49,7 @@ var dmcHexResource = [{
 	'red': '191',
 	'green': '45',
 	'blue': '45',
-	'hex': '#BF2D2D',
-	'row': 'row 01-06'
+	'hex': '#BF2D2D'
 },
 { 
 	'dmcID': '353', 
@@ -63,8 +57,7 @@ var dmcHexResource = [{
 	'red': '254',
 	'green': '215',
 	'blue': '204',
-	'hex': '#FED7CC',
-	'row': 'row 01-07'
+	'hex': '#FED7CC'
 },
 { 
 	'dmcID': '352', 
@@ -72,8 +65,7 @@ var dmcHexResource = [{
 	'red': '253',
 	'green': '156',
 	'blue': '151',
-	'hex': '#FD9C97',
-	'row': 'row 01-08'
+	'hex': '#FD9C97'
 },
 { 
 	'dmcID': '351', 
@@ -81,8 +73,7 @@ var dmcHexResource = [{
 	'red': '233',
 	'green': '106',
 	'blue': '103',
-	'hex': '#E96A67',
-	'row': 'row 01-09'
+	'hex': '#E96A67'
 },
 { 
 	'dmcID': '350', 
@@ -90,8 +81,7 @@ var dmcHexResource = [{
 	'red': '224',
 	'green': '72',
 	'blue': '72',
-	'hex': '#E04848',
-	'row': 'row 01-10'
+	'hex': '#E04848'
 },
 { 
 	'dmcID': '349', 
@@ -99,8 +89,7 @@ var dmcHexResource = [{
 	'red': '210',
 	'green': '16',
 	'blue': '53',
-	'hex': '#D21035',
-	'row': 'row 01-11'
+	'hex': '#D21035'
 },
 { 
 	'dmcID': '817', 
@@ -108,8 +97,7 @@ var dmcHexResource = [{
 	'red': '187',
 	'green': '5',
 	'blue': '31',
-	'hex': '#BB051F',
-	'row': 'row 01-12'
+	'hex': '#BB051F'
 },
 { 
 	'dmcID': '3708', 
@@ -117,8 +105,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '203',
 	'blue': '213',
-	'hex': '#FFCBD5',
-	'row': 'row 01-13'
+	'hex': '#FFCBD5'
 },
 { 
 	'dmcID': '3706', 
@@ -126,8 +113,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '173',
 	'blue': '188',
-	'hex': '#FFADBC',
-	'row': 'row 01-14'
+	'hex': '#FFADBC'
 },
 { 
 	'dmcID': '3705', 
@@ -135,8 +121,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '121',
 	'blue': '146',
-	'hex': '#FF7992',
-	'row': 'row 01-15'
+	'hex': '#FF7992'
 },
 { 
 	'dmcID': '3801', 
@@ -144,8 +129,7 @@ var dmcHexResource = [{
 	'red': '231',
 	'green': '73',
 	'blue': '103',
-	'hex': '#E74967',
-	'row': 'row 01-16'
+	'hex': '#E74967'
 },
 { 
 	'dmcID': '666', 
@@ -153,8 +137,7 @@ var dmcHexResource = [{
 	'red': '227',
 	'green': '29',
 	'blue': '66',
-	'hex': '#E31D42',
-	'row': 'row 01-17'
+	'hex': '#E31D42'
 },
 { 
 	'dmcID': '321', 
@@ -162,8 +145,7 @@ var dmcHexResource = [{
 	'red': '199',
 	'green': '43',
 	'blue': '59',
-	'hex': '#C72B3B',
-	'row': 'row 01-18'
+	'hex': '#C72B3B'
 },
 { 
 	'dmcID': '304', 
@@ -171,8 +153,7 @@ var dmcHexResource = [{
 	'red': '183',
 	'green': '31',
 	'blue': '51',
-	'hex': '#B71F33',
-	'row': 'row 01-19'
+	'hex': '#B71F33'
 },
 { 
 	'dmcID': '498', 
@@ -180,8 +161,7 @@ var dmcHexResource = [{
 	'red': '167',
 	'green': '19',
 	'blue': '43',
-	'hex': '#A7132B',
-	'row': 'row 01-20'
+	'hex': '#A7132B'
 },
 { 
 	'dmcID': '816', 
@@ -189,8 +169,7 @@ var dmcHexResource = [{
 	'red': '151',
 	'green': '11',
 	'blue': '35',
-	'hex': '#970B23',
-	'row': 'row 01-21'
+	'hex': '#970B23'
 },
 { 
 	'dmcID': '815', 
@@ -198,8 +177,7 @@ var dmcHexResource = [{
 	'red': '135',
 	'green': '7',
 	'blue': '31',
-	'hex': '#87071F',
-	'row': 'row 01-22'
+	'hex': '#87071F'
 },
 { 
 	'dmcID': '814', 
@@ -207,8 +185,7 @@ var dmcHexResource = [{
 	'red': '123',
 	'green': '0',
 	'blue': '27',
-	'hex': '#7B001B',
-	'row': 'row 01-23'
+	'hex': '#7B001B'
 },
 { 
 	'dmcID': '894', 
@@ -216,8 +193,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '178',
 	'blue': '187',
-	'hex': '#FFB2BB',
-	'row': 'row 02-01'
+	'hex': '#FFB2BB'
 },
 { 
 	'dmcID': '893', 
@@ -225,8 +201,7 @@ var dmcHexResource = [{
 	'red': '252',
 	'green': '144',
 	'blue': '162',
-	'hex': '#FC90A2',
-	'row': 'row 02-02'
+	'hex': '#FC90A2'
 },
 { 
 	'dmcID': '892', 
@@ -234,8 +209,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '121',
 	'blue': '140',
-	'hex': '#FF798C',
-	'row': 'row 02-03'
+	'hex': '#FF798C'
 },
 { 
 	'dmcID': '891', 
@@ -243,8 +217,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '87',
 	'blue': '115',
-	'hex': '#FF5773',
-	'row': 'row 02-04'
+	'hex': '#FF5773'
 },
 { 
 	'dmcID': '818', 
@@ -252,8 +225,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '223',
 	'blue': '217',
-	'hex': '#FFDFD9',
-	'row': 'row 02-05'
+	'hex': '#FFDFD9'
 },
 { 
 	'dmcID': '957', 
@@ -261,8 +233,7 @@ var dmcHexResource = [{
 	'red': '253',
 	'green': '181',
 	'blue': '181',
-	'hex': '#FDB5B5',
-	'row': 'row 02-06'
+	'hex': '#FDB5B5'
 },
 { 
 	'dmcID': '956', 
@@ -270,8 +241,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '145',
 	'blue': '145',
-	'hex': '#FF9191',
-	'row': 'row 02-07'
+	'hex': '#FF9191'
 },
 { 
 	'dmcID': '309', 
@@ -279,8 +249,7 @@ var dmcHexResource = [{
 	'red': '86',
 	'green': '74',
 	'blue': '74',
-	'hex': '#BA4A4A',
-	'row': 'row 02-08'
+	'hex': '#BA4A4A'
 },
 { 
 	'dmcID': '963', 
@@ -288,8 +257,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '215',
 	'blue': '215',
-	'hex': '#FFD7D7',
-	'row': 'row 02-09'
+	'hex': '#FFD7D7'
 },
 { 
 	'dmcID': '3716', 
@@ -297,8 +265,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '189',
 	'blue': '189',
-	'hex': '#FFBDBD',
-	'row': 'row 02-10'
+	'hex': '#FFBDBD'
 },
 { 
 	'dmcID': '962', 
@@ -306,8 +273,7 @@ var dmcHexResource = [{
 	'red': '230',
 	'green': '138',
 	'blue': '138',
-	'hex': '#E68A8A',
-	'row': 'row 02-11'
+	'hex': '#E68A8A'
 },
 { 
 	'dmcID': '961', 
@@ -315,8 +281,7 @@ var dmcHexResource = [{
 	'red': '207',
 	'green': '115',
 	'blue': '115',
-	'hex': '#CF7373',
-	'row': 'row 02-12'
+	'hex': '#CF7373'
 },
 { 
 	'dmcID': '3833', 
@@ -324,8 +289,7 @@ var dmcHexResource = [{
 	'red': '234',
 	'green': '134',
 	'blue': '153',
-	'hex': '#EA8699',
-	'row': 'row 02-13'
+	'hex': '#EA8699'
 },
 { 
 	'dmcID': '3832', 
@@ -333,8 +297,7 @@ var dmcHexResource = [{
 	'red': '219',
 	'green': '85',
 	'blue': '110',
-	'hex': '#DB556E',
-	'row': 'row 02-14'
+	'hex': '#DB556E'
 },
 { 
 	'dmcID': '3831', 
@@ -342,8 +305,7 @@ var dmcHexResource = [{
 	'red': '179',
 	'green': '47',
 	'blue': '72',
-	'hex': '#B32F48',
-	'row': 'row 02-15'
+	'hex': '#B32F48'
 },
 { 
 	'dmcID': '777', 
@@ -351,8 +313,7 @@ var dmcHexResource = [{
 	'red': '145',
 	'green': '53',
 	'blue': '70',
-	'hex': '#913546',
-	'row': 'row 02-16'
+	'hex': '#913546'
 },
 { 
 	'dmcID': '819', 
@@ -360,8 +321,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '238',
 	'blue': '235',
-	'hex': '#FFEEEB',
-	'row': 'row 02-17'
+	'hex': '#FFEEEB'
 },
 { 
 	'dmcID': '3326', 
@@ -369,8 +329,7 @@ var dmcHexResource = [{
 	'red': '251',
 	'green': '173',
 	'blue': '180',
-	'hex': '#FBADB4',
-	'row': 'row 02-18'
+	'hex': '#FBADB4'
 },
 { 
 	'dmcID': '776', 
@@ -378,8 +337,7 @@ var dmcHexResource = [{
 	'red': '252',
 	'green': '176',
 	'blue': '185',
-	'hex': '#FCB0B9',
-	'row': 'row 02-19'
+	'hex': '#FCB0B9'
 },
 { 
 	'dmcID': '899', 
@@ -387,8 +345,7 @@ var dmcHexResource = [{
 	'red': '242',
 	'green': '118',
 	'blue': '136',
-	'hex': '#F27688',
-	'row': 'row 02-20'
+	'hex': '#F27688'
 },
 { 
 	'dmcID': '335', 
@@ -396,8 +353,7 @@ var dmcHexResource = [{
 	'red': '238',
 	'green': '84',
 	'blue': '110',
-	'hex': '#EE546E',
-	'row': 'row 02-21'
+	'hex': '#EE546E'
 },
 { 
 	'dmcID': '326', 
@@ -405,8 +361,7 @@ var dmcHexResource = [{
 	'red': '179',
 	'green': '59',
 	'blue': '75',
-	'hex': '#B33B4B',
-	'row': 'row 02-22'
+	'hex': '#B33B4B'
 },
 { 
 	'dmcID': '151', 
@@ -414,8 +369,7 @@ var dmcHexResource = [{
 	'red': '240',
 	'green': '206',
 	'blue': '212',
-	'hex': '#F0CED4',
-	'row': 'row 03-01'
+	'hex': '#F0CED4'
 },
 { 
 	'dmcID': '3354', 
@@ -423,8 +377,7 @@ var dmcHexResource = [{
 	'red': '228',
 	'green': '166',
 	'blue': '172',
-	'hex': '#E4A6AC',
-	'row': 'row 03-02'
+	'hex': '#E4A6AC'
 },
 { 
 	'dmcID': '3733', 
@@ -432,8 +385,7 @@ var dmcHexResource = [{
 	'red': '232',
 	'green': '135',
 	'blue': '155',
-	'hex': '#E8879B',
-	'row': 'row 03-03'
+	'hex': '#E8879B'
 },
 { 
 	'dmcID': '3731', 
@@ -441,8 +393,7 @@ var dmcHexResource = [{
 	'red': '218',
 	'green': '103',
 	'blue': '131',
-	'hex': '#DA6783',
-	'row': 'row 03-04'
+	'hex': '#DA6783'
 },
 { 
 	'dmcID': '3350', 
@@ -450,8 +401,7 @@ var dmcHexResource = [{
 	'red': '188',
 	'green': '67',
 	'blue': '101',
-	'hex': '#BC4365',
-	'row': 'row 03-05'
+	'hex': '#BC4365'
 },
 { 
 	'dmcID': '150', 
@@ -459,8 +409,7 @@ var dmcHexResource = [{
 	'red': '171',
 	'green': '2',
 	'blue': '73',
-	'hex': '#AB0249',
-	'row': 'row 03-06'
+	'hex': '#AB0249'
 },
 { 
 	'dmcID': '3689', 
@@ -468,8 +417,7 @@ var dmcHexResource = [{
 	'red': '251',
 	'green': '191',
 	'blue': '194',
-	'hex': '#FBBFC2',
-	'row': 'row 03-07'
+	'hex': '#FBBFC2'
 },
 { 
 	'dmcID': '3688', 
@@ -477,8 +425,7 @@ var dmcHexResource = [{
 	'red': '231',
 	'green': '169',
 	'blue': '172',
-	'hex': '#E7A9AC',
-	'row': 'row 03-08'
+	'hex': '#E7A9AC'
 },
 { 
 	'dmcID': '3687', 
@@ -486,8 +433,7 @@ var dmcHexResource = [{
 	'red': '201',
 	'green': '107',
 	'blue': '112',
-	'hex': '#C96B70',
-	'row': 'row 03-09'
+	'hex': '#C96B70'
 },
 { 
 	'dmcID': '3803', 
@@ -495,8 +441,7 @@ var dmcHexResource = [{
 	'red': '171',
 	'green': '51',
 	'blue': '87',
-	'hex': '#AB3357',
-	'row': 'row 03-10'
+	'hex': '#AB3357'
 },
 { 
 	'dmcID': '3685', 
@@ -504,8 +449,7 @@ var dmcHexResource = [{
 	'red': '136',
 	'green': '21',
 	'blue': '49',
-	'hex': '#881531',
-	'row': 'row 03-11'
+	'hex': '#881531'
 },
 { 
 	'dmcID': '605', 
@@ -513,8 +457,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '192',
 	'blue': '205',
-	'hex': '#FFC0CD',
-	'row': 'row 03-12'
+	'hex': '#FFC0CD'
 },
 { 
 	'dmcID': '604', 
@@ -522,8 +465,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '176',
 	'blue': '190',
-	'hex': '#FFB0BE',
-	'row': 'row 03-13'
+	'hex': '#FFB0BE'
 },
 { 
 	'dmcID': '603', 
@@ -531,8 +473,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '164',
 	'blue': '190',
-	'hex': '#FFA4BE',
-	'row': 'row 03-14'
+	'hex': '#FFA4BE'
 },
 { 
 	'dmcID': '602', 
@@ -540,8 +481,7 @@ var dmcHexResource = [{
 	'red': '226',
 	'green': '72',
 	'blue': '116',
-	'hex': '#E24874',
-	'row': 'row 03-15'
+	'hex': '#E24874'
 },
 { 
 	'dmcID': '601', 
@@ -549,8 +489,7 @@ var dmcHexResource = [{
 	'red': '209',
 	'green': '40',
 	'blue': '106',
-	'hex': '#D1286A',
-	'row': 'row 03-16'
+	'hex': '#D1286A'
 },
 { 
 	'dmcID': '600', 
@@ -558,8 +497,7 @@ var dmcHexResource = [{
 	'red': '205',
 	'green': '47',
 	'blue': '99',
-	'hex': '#CD2F63',
-	'row': 'row 03-17'
+	'hex': '#CD2F63'
 },
 { 
 	'dmcID': '3806', 
@@ -567,8 +505,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '140',
 	'blue': '174',
-	'hex': '#FF8CAE',
-	'row': 'row 03-18'
+	'hex': '#FF8CAE'
 },
 { 
 	'dmcID': '3805', 
@@ -576,8 +513,7 @@ var dmcHexResource = [{
 	'red': '243',
 	'green': '71',
 	'blue': '139',
-	'hex': '#F3478B',
-	'row': 'row 03-19'
+	'hex': '#F3478B'
 },
 { 
 	'dmcID': '3804', 
@@ -585,8 +521,7 @@ var dmcHexResource = [{
 	'red': '224',
 	'green': '40',
 	'blue': '118',
-	'hex': '#E02876',
-	'row': 'row 03-20'
+	'hex': '#E02876'
 },
 { 
 	'dmcID': '3609', 
@@ -594,8 +529,7 @@ var dmcHexResource = [{
 	'red': '244',
 	'green': '174',
 	'blue': '213',
-	'hex': '#F4AED7',
-	'row': 'row 03-21'
+	'hex': '#F4AED7'
 },
 { 
 	'dmcID': '3608', 
@@ -603,8 +537,7 @@ var dmcHexResource = [{
 	'red': '234',
 	'green': '156',
 	'blue': '196',
-	'hex': '#EA9CC4',
-	'row': 'row 03-22'
+	'hex': '#EA9CC4'
 },
 { 
 	'dmcID': '3607', 
@@ -612,8 +545,7 @@ var dmcHexResource = [{
 	'red': '197',
 	'green': '73',
 	'blue': '137',
-	'hex': '#C54989',
-	'row': 'row 03-23'
+	'hex': '#C54989'
 },
 { 
 	'dmcID': '718', 
@@ -621,8 +553,7 @@ var dmcHexResource = [{
 	'red': '156',
 	'green': '36',
 	'blue': '98',
-	'hex': '#9C2462',
-	'row': 'row 03-24'
+	'hex': '#9C2462'
 },
 { 
 	'dmcID': '917', 
@@ -630,8 +561,7 @@ var dmcHexResource = [{
 	'red': '155',
 	'green': '19',
 	'blue': '89',
-	'hex': '#9B1359',
-	'row': 'row 03-25'
+	'hex': '#9B1359'
 },
 { 
 	'dmcID': '915', 
@@ -639,8 +569,7 @@ var dmcHexResource = [{
 	'red': '130',
 	'green': '0',
 	'blue': '67',
-	'hex': '#820043',
-	'row': 'row 03-26'
+	'hex': '#820043'
 },
 { 
 	'dmcID': '225', 
@@ -648,8 +577,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '223',
 	'blue': '213',
-	'hex': '#FFDFD7',
-	'row': 'row 04-01'
+	'hex': '#FFDFD7'
 },
 { 
 	'dmcID': '224', 
@@ -657,8 +585,7 @@ var dmcHexResource = [{
 	'red': '235',
 	'green': '183',
 	'blue': '175',
-	'hex': '#EBB7AF',
-	'row': 'row 04-02'
+	'hex': '#EBB7AF'
 },
 { 
 	'dmcID': '152', 
@@ -666,8 +593,7 @@ var dmcHexResource = [{
 	'red': '226',
 	'green': '160',
 	'blue': '153',
-	'hex': '#E2A099',
-	'row': 'row 04-03'
+	'hex': '#E2A099'
 },
 { 
 	'dmcID': '223', 
@@ -675,8 +601,7 @@ var dmcHexResource = [{
 	'red': '204',
 	'green': '132',
 	'blue': '124',
-	'hex': '#CC847C',
-	'row': 'row 04-04'
+	'hex': '#CC847C'
 },
 { 
 	'dmcID': '3722', 
@@ -684,8 +609,7 @@ var dmcHexResource = [{
 	'red': '188',
 	'green': '108',
 	'blue': '100',
-	'hex': '#BC6C64',
-	'row': 'row 04-05'
+	'hex': '#BC6C64'
 },
 { 
 	'dmcID': '3721', 
@@ -693,8 +617,7 @@ var dmcHexResource = [{
 	'red': '161',
 	'green': '75',
 	'blue': '81',
-	'hex': '#A14B51',
-	'row': 'row 04-06'
+	'hex': '#A14B51'
 },
 { 
 	'dmcID': '221', 
@@ -702,17 +625,15 @@ var dmcHexResource = [{
 	'red': '136',
 	'green': '62',
 	'blue': '67',
-	'hex': '#883E45'.
-	'row': 'row 04-07'
-}
+	'hex': '#883E45'
+},
 { 
 	'dmcID': '778', 
 	'description': 'Antique Mauve Vy Lt',
 	'red': '223',
 	'green': '179',
 	'blue': '187',
-	'hex': '#DFB3BB',
-	'row': 'row 04-08'
+	'hex': '#DFB3BB'
 },
 { 
 	'dmcID': '3727', 
@@ -720,8 +641,7 @@ var dmcHexResource = [{
 	'red': '219',
 	'green': '169',
 	'blue': '178',
-	'hex': '#DBA9B2',
-	'row': 'row 04-09'
+	'hex': '#DBA9B2'
 },
 { 
 	'dmcID': '316', 
@@ -729,8 +649,7 @@ var dmcHexResource = [{
 	'red': '183',
 	'green': '115',
 	'blue': '127',
-	'hex': '#B7737F',
-	'row': 'row 04-10'
+	'hex': '#B7737F'
 },
 { 
 	'dmcID': '3726', 
@@ -738,8 +657,7 @@ var dmcHexResource = [{
 	'red': '155',
 	'green': '91',
 	'blue': '102',
-	'hex': '#9B5B66',
-	'row': 'row 04-11'
+	'hex': '#9B5B66'
 },
 { 
 	'dmcID': '315', 
@@ -747,8 +665,7 @@ var dmcHexResource = [{
 	'red': '129',
 	'green': '73',
 	'blue': '82',
-	'hex': '#814952',
-	'row': 'row 04-12'
+	'hex': '#814952'
 },
 { 
 	'dmcID': '3802', 
@@ -756,8 +673,7 @@ var dmcHexResource = [{
 	'red': '113',
 	'green': '65',
 	'blue': '73',
-	'hex': '#714149',
-	'row': 'row 04-13'
+	'hex': '#714149'
 },
 { 
 	'dmcID': '902', 
@@ -765,8 +681,7 @@ var dmcHexResource = [{
 	'red': '130',
 	'green': '38',
 	'blue': '55',
-	'hex': '#822637',
-	'row': 'row 04-14'
+	'hex': '#822637'
 },
 { 
 	'dmcID': '3743', 
@@ -774,8 +689,7 @@ var dmcHexResource = [{
 	'red': '215',
 	'green': '203',
 	'blue': '211',
-	'hex': '#D7CBD3',
-	'row': 'row 04-15'
+	'hex': '#D7CBD3'
 },
 { 
 	'dmcID': '3042', 
@@ -783,8 +697,7 @@ var dmcHexResource = [{
 	'red': '183',
 	'green': '157',
 	'blue': '167',
-	'hex': '#B79DA7',
-	'row': 'row 04-16'
+	'hex': '#B79DA7'
 },
 { 
 	'dmcID': '3041', 
@@ -792,8 +705,7 @@ var dmcHexResource = [{
 	'red': '149',
 	'green': '111',
 	'blue': '124',
-	'hex': '#956F7C',
-	'row': 'row 04-17'
+	'hex': '#956F7C'
 },
 { 
 	'dmcID': '3740', 
@@ -801,8 +713,7 @@ var dmcHexResource = [{
 	'red': '120',
 	'green': '87',
 	'blue': '98',
-	'hex': '#785762',
-	'row': 'row 04-18'
+	'hex': '#785762'
 },
 { 
 	'dmcID': '3836', 
@@ -810,8 +721,7 @@ var dmcHexResource = [{
 	'red': '186',
 	'green': '145',
 	'blue': '170',
-	'hex': '#BA91AA',
-	'row': 'row 04-19'
+	'hex': '#BA91AA'
 },
 { 
 	'dmcID': '3835', 
@@ -819,8 +729,7 @@ var dmcHexResource = [{
 	'red': '148',
 	'green': '96',
 	'blue': '131',
-	'hex': '#946083',
-	'row': 'row 04-20'
+	'hex': '#946083'
 },
 { 
 	'dmcID': '3834', 
@@ -828,8 +737,7 @@ var dmcHexResource = [{
 	'red': '114',
 	'green': '55',
 	'blue': '93',
-	'hex': '#72375D',
-	'row': 'row 04-21'
+	'hex': '#72375D'
 },
 { 
 	'dmcID': '154', 
@@ -837,8 +745,7 @@ var dmcHexResource = [{
 	'red': '87',
 	'green': '36',
 	'blue': '51',
-	'hex': '#572433',
-	'row': 'row 04-22'
+	'hex': '#572433'
 },
 { 
 	'dmcID': '211', 
@@ -846,8 +753,7 @@ var dmcHexResource = [{
 	'red': '227',
 	'green': '203',
 	'blue': '227',
-	'hex': '#E3CBE3',
-	'row': 'row 05-01'
+	'hex': '#E3CBE3'
 },
 { 
 	'dmcID': '210', 
@@ -855,8 +761,7 @@ var dmcHexResource = [{
 	'red': '195',
 	'green': '159',
 	'blue': '195',
-	'hex': '#D29FC3',
-	'row': 'row 05-02'
+	'hex': '#D29FC3'
 },
 { 
 	'dmcID': '209', 
@@ -864,8 +769,7 @@ var dmcHexResource = [{
 	'red': '163',
 	'green': '123',
 	'blue': '167',
-	'hex': '#A37BA7',
-	'row': 'row 05-03'
+	'hex': '#A37BA7'
 },
 { 
 	'dmcID': '208', 
@@ -873,8 +777,7 @@ var dmcHexResource = [{
 	'red': '131',
 	'green': '91',
 	'blue': '139',
-	'hex': '#835B8B',
-	'row': 'row 05-04'
+	'hex': '#835B8B'
 },
 { 
 	'dmcID': '3837', 
@@ -882,8 +785,7 @@ var dmcHexResource = [{
 	'red': '108',
 	'green': '58',
 	'blue': '110',
-	'hex': '#6C3A6E',
-	'row': 'row 05-05'
+	'hex': '#6C3A6E'
 },
 { 
 	'dmcID': '327', 
@@ -891,8 +793,7 @@ var dmcHexResource = [{
 	'red': '99',
 	'green': '54',
 	'blue': '102',
-	'hex': '#633666',
-	'row': 'row 05-06'
+	'hex': '#633666'
 },
 { 
 	'dmcID': '153', 
@@ -900,8 +801,7 @@ var dmcHexResource = [{
 	'red': '230',
 	'green': '204',
 	'blue': '217',
-	'hex': '#E6CCD9',
-	'row': 'row 05-07'
+	'hex': '#E6CCD9'
 },
 { 
 	'dmcID': '554', 
@@ -909,8 +809,7 @@ var dmcHexResource = [{
 	'red': '219',
 	'green': '179',
 	'blue': '203',
-	'hex': '#DBB3CB',
-	'row': 'row 05-08'
+	'hex': '#DBB3CB'
 },
 { 
 	'dmcID': '553', 
@@ -918,8 +817,7 @@ var dmcHexResource = [{
 	'red': '163',
 	'green': '99',
 	'blue': '139',
-	'hex': '#A3638B',
-	'row': 'row 05-09'
+	'hex': '#A3638B'
 },
 { 
 	'dmcID': '552', 
@@ -927,8 +825,7 @@ var dmcHexResource = [{
 	'red': '128',
 	'green': '58',
 	'blue': '107',
-	'hex': '#803A6B',
-	'row': 'row 05-10'
+	'hex': '#803A6B'
 },
 { 
 	'dmcID': '550', 
@@ -936,8 +833,7 @@ var dmcHexResource = [{
 	'red': '92',
 	'green': '24',
 	'blue': '78',
-	'hex': '#5C184E',
-	'row': 'row 05-11'
+	'hex': '#5C184E'
 },
 { 
 	'dmcID': '3747', 
@@ -945,8 +841,7 @@ var dmcHexResource = [{
 	'red': '211',
 	'green': '215',
 	'blue': '237',
-	'hex': '#D3D7ED',
-	'row': 'row 05-12'
+	'hex': '#D3D7ED'
 },
 { 
 	'dmcID': '341', 
@@ -954,8 +849,7 @@ var dmcHexResource = [{
 	'red': '183',
 	'green': '191',
 	'blue': '221',
-	'hex': '#B7BFDD',
-	'row': 'row 05-13'
+	'hex': '#B7BFDD'
 },
 { 
 	'dmcID': '156', 
@@ -963,8 +857,7 @@ var dmcHexResource = [{
 	'red': '163',
 	'green': '174',
 	'blue': '209',
-	'hex': '#A3AED1',
-	'row': 'row 05-14'
+	'hex': '#A3AED1'
 },
 { 
 	'dmcID': '340', 
@@ -972,8 +865,7 @@ var dmcHexResource = [{
 	'red': '173',
 	'green': '167',
 	'blue': '199',
-	'hex': '#ADA7C7',
-	'row': 'row 05-15'
+	'hex': '#ADA7C7'
 },
 { 
 	'dmcID': '155', 
@@ -981,8 +873,7 @@ var dmcHexResource = [{
 	'red': '152',
 	'green': '145',
 	'blue': '182',
-	'hex': '#9891B6',
-	'row': 'row 05-16'
+	'hex': '#9891B6'
 },
 { 
 	'dmcID': '3746', 
@@ -990,8 +881,7 @@ var dmcHexResource = [{
 	'red': '119',
 	'green': '107',
 	'blue': '152',
-	'hex': '#776B98',
-	'row': 'row 05-17'
+	'hex': '#776B98'
 },
 { 
 	'dmcID': '333', 
@@ -999,8 +889,7 @@ var dmcHexResource = [{
 	'red': '92',
 	'green': '84',
 	'blue': '120',
-	'hex': '#5C5478',
-	'row': 'row 05-18'
+	'hex': '#5C5478'
 },
 { 
 	'dmcID': '157', 
@@ -1008,8 +897,7 @@ var dmcHexResource = [{
 	'red': '187',
 	'green': '195',
 	'blue': '217',
-	'hex': '#BBC3D9',
-	'row': 'row 05-19'
+	'hex': '#BBC3D9'
 },
 { 
 	'dmcID': '794', 
@@ -1017,8 +905,7 @@ var dmcHexResource = [{
 	'red': '143',
 	'green': '156',
 	'blue': '193',
-	'hex': '#8F9CC1',
-	'row': 'row 05-20'
+	'hex': '#8F9CC1'
 },
 { 
 	'dmcID': '793', 
@@ -1026,8 +913,7 @@ var dmcHexResource = [{
 	'red': '112',
 	'green': '125',
 	'blue': '162',
-	'hex': '#707DA2',
-	'row': 'row 05-21'
+	'hex': '#707DA2'
 },
 { 
 	'dmcID': '3807', 
@@ -1035,8 +921,7 @@ var dmcHexResource = [{
 	'red': '96',
 	'green': '103',
 	'blue': '140',
-	'hex': '#60678C',
-	'row': 'row 05-22'
+	'hex': '#60678C'
 },
 { 
 	'dmcID': '792', 
@@ -1044,8 +929,7 @@ var dmcHexResource = [{
 	'red': '85',
 	'green': '91',
 	'blue': '123',
-	'hex': '#555B7B',
-	'row': 'row 05-23'
+	'hex': '#555B7B'
 },
 { 
 	'dmcID': '158', 
@@ -1053,8 +937,7 @@ var dmcHexResource = [{
 	'red': '76',
 	'green': '82',
 	'blue': '110',
-	'hex': '#4C526E',
-	'row': 'row 05-24'
+	'hex': '#4C526E'
 },
 { 
 	'dmcID': '791', 
@@ -1062,8 +945,7 @@ var dmcHexResource = [{
 	'red': '70',
 	'green': '69',
 	'blue': '99',
-	'hex': '#464563',
-	'row': 'row 05-25'
+	'hex': '#464563'
 },
 { 
 	'dmcID': '3840', 
@@ -1071,8 +953,7 @@ var dmcHexResource = [{
 	'red': '176',
 	'green': '192',
 	'blue': '218',
-	'hex': '#B0C0DA',
-	'row': 'row 06-01'
+	'hex': '#B0C0DA'
 },
 { 
 	'dmcID': '3839', 
@@ -1080,8 +961,7 @@ var dmcHexResource = [{
 	'red': '123',
 	'green': '142',
 	'blue': '171',
-	'hex': '#7B8EAB',
-	'row': 'row 06-02'
+	'hex': '#7B8EAB'
 },
 { 
 	'dmcID': '3838', 
@@ -1089,8 +969,7 @@ var dmcHexResource = [{
 	'red': '92',
 	'green': '114',
 	'blue': '148',
-	'hex': '#5C7294',
-	'row': 'row 06-03'
+	'hex': '#5C7294'
 },
 { 
 	'dmcID': '800', 
@@ -1098,8 +977,7 @@ var dmcHexResource = [{
 	'red': '192',
 	'green': '204',
 	'blue': '222',
-	'hex': '#C0CCDE',
-	'row': 'row 06-04'
+	'hex': '#C0CCDE'
 },
 { 
 	'dmcID': '809', 
@@ -1107,8 +985,7 @@ var dmcHexResource = [{
 	'red': '148',
 	'green': '168',
 	'blue': '198',
-	'hex': '#94A8C6',
-	'row': 'row 06-05'
+	'hex': '#94A8C6'
 },
 { 
 	'dmcID': '799', 
@@ -1116,8 +993,7 @@ var dmcHexResource = [{
 	'red': '116',
 	'green': '142',
 	'blue': '182',
-	'hex': '#748EB6',
-	'row': 'row 06-06'
+	'hex': '#748EB6'
 },
 { 
 	'dmcID': '798', 
@@ -1125,8 +1001,7 @@ var dmcHexResource = [{
 	'red': '70',
 	'green': '106',
 	'blue': '142',
-	'hex': '#466A8E',
-	'row': 'row 06-07'
+	'hex': '#466A8E'
 },
 { 
 	'dmcID': '797', 
@@ -1134,8 +1009,7 @@ var dmcHexResource = [{
 	'red': '19',
 	'green': '71',
 	'blue': '125',
-	'hex': '#13477D',
-	'row': 'row 06-08'
+	'hex': '#13477D'
 },
 { 
 	'dmcID': '796', 
@@ -1143,8 +1017,7 @@ var dmcHexResource = [{
 	'red': '17',
 	'green': '65',
 	'blue': '109',
-	'hex': '#11416D',
-	'row': 'row 06-09'
+	'hex': '#11416D'
 },
 { 
 	'dmcID': '820', 
@@ -1152,8 +1025,7 @@ var dmcHexResource = [{
 	'red': '14',
 	'green': '54',
 	'blue': '92',
-	'hex': '#0E365C',
-	'row': 'row 06-10'
+	'hex': '#0E365C'
 },
 { 
 	'dmcID': '162', 
@@ -1161,8 +1033,7 @@ var dmcHexResource = [{
 	'red': '219',
 	'green': '236',
 	'blue': '245',
-	'hex': '#DBECF5',
-	'row': 'row 06-11'
+	'hex': '#DBECF5'
 },
 { 
 	'dmcID': '827', 
@@ -1170,8 +1041,7 @@ var dmcHexResource = [{
 	'red': '189',
 	'green': '221',
 	'blue': '237',
-	'hex': '#BDDDED',
-	'row': 'row 06-12'
+	'hex': '#BDDDED'
 },
 { 
 	'dmcID': '813', 
@@ -1179,8 +1049,7 @@ var dmcHexResource = [{
 	'red': '161',
 	'green': '194',
 	'blue': '215',
-	'hex': '#A1C2D7',
-	'row': 'row 06-13'
+	'hex': '#A1C2D7'
 },
 { 
 	'dmcID': '826', 
@@ -1188,8 +1057,7 @@ var dmcHexResource = [{
 	'red': '107',
 	'green': '158',
 	'blue': '191',
-	'hex': '#6B9EBF',
-	'row': 'row 06-14'
+	'hex': '#6B9EBF'
 },
 { 
 	'dmcID': '825', 
@@ -1197,8 +1065,7 @@ var dmcHexResource = [{
 	'red': '71',
 	'green': '129',
 	'blue': '165',
-	'hex': '#4781A5',
-	'row': 'row 06-15'
+	'hex': '#4781A5'
 },
 { 
 	'dmcID': '824', 
@@ -1206,8 +1073,7 @@ var dmcHexResource = [{
 	'red': '57',
 	'green': '105',
 	'blue': '135',
-	'hex': '#396987',
-	'row': 'row 06-16'
+	'hex': '#396987'
 },
 { 
 	'dmcID': '996', 
@@ -1215,8 +1081,7 @@ var dmcHexResource = [{
 	'red': '48',
 	'green': '194',
 	'blue': '236',
-	'hex': '#30C2EC',
-	'row': 'row 06-17'
+	'hex': '#30C2EC'
 },
 { 
 	'dmcID': '3843', 
@@ -1224,8 +1089,7 @@ var dmcHexResource = [{
 	'red': '20',
 	'green': '170',
 	'blue': '208',
-	'hex': '#14AAD0',
-	'row': 'row 06-18'
+	'hex': '#14AAD0'
 },
 { 
 	'dmcID': '995', 
@@ -1233,8 +1097,7 @@ var dmcHexResource = [{
 	'red': '38',
 	'green': '150',
 	'blue': '182',
-	'hex': '#2696B6',
-	'row': 'row 06-19'
+	'hex': '#2696B6'
 },
 { 
 	'dmcID': '3846', 
@@ -1242,8 +1105,7 @@ var dmcHexResource = [{
 	'red': '6',
 	'green': '227',
 	'blue': '230',
-	'hex': '#06E3E6',
-	'row': 'row 06-20'
+	'hex': '#06E3E6'
 },
 { 
 	'dmcID': '3845', 
@@ -1251,8 +1113,7 @@ var dmcHexResource = [{
 	'red': '4',
 	'green': '196',
 	'blue': '202',
-	'hex': '#04C4CA',
-	'row': 'row 06-21'
+	'hex': '#04C4CA'
 },
 { 
 	'dmcID': '3844', 
@@ -1260,8 +1121,7 @@ var dmcHexResource = [{
 	'red': '18',
 	'green': '174',
 	'blue': '186',
-	'hex': '#12AEBA',
-	'row': 'row 06-22'
+	'hex': '#12AEBA'
 },
 { 
 	'dmcID': '159', 
@@ -1269,8 +1129,7 @@ var dmcHexResource = [{
 	'red': '199',
 	'green': '202',
 	'blue': '215',
-	'hex': '#C7CAD7',
-	'row': 'row 07-01'
+	'hex': '#C7CAD7'
 },
 { 
 	'dmcID': '160', 
@@ -1278,8 +1137,7 @@ var dmcHexResource = [{
 	'red': '153',
 	'green': '159',
 	'blue': '183',
-	'hex': '#999FB7',
-	'row': 'row 07-02'
+	'hex': '#999FB7'
 },
 { 
 	'dmcID': '161', 
@@ -1287,8 +1145,7 @@ var dmcHexResource = [{
 	'red': '120',
 	'green': '128',
 	'blue': '164',
-	'hex': '#7880A4',
-	'row': 'row 07-03'
+	'hex': '#7880A4'
 },
 { 
 	'dmcID': '3756', 
@@ -1296,8 +1153,7 @@ var dmcHexResource = [{
 	'red': '238',
 	'green': '252',
 	'blue': '252',
-	'hex': '#EEFCFC',
-	'row': 'row 07-04'
+	'hex': '#EEFCFC'
 },
 { 
 	'dmcID': '775', 
@@ -1305,8 +1161,7 @@ var dmcHexResource = [{
 	'red': '217',
 	'green': '235',
 	'blue': '241',
-	'hex': '#D9EBF1',
-	'row': 'row 07-05'
+	'hex': '#D9EBF1'
 },
 { 
 	'dmcID': '3841', 
@@ -1314,8 +1169,7 @@ var dmcHexResource = [{
 	'red': '205',
 	'green': '223',
 	'blue': '237',
-	'hex': '#CDDFED',
-	'row': 'row 07-06'
+	'hex': '#CDDFED'
 },
 { 
 	'dmcID': '3325', 
@@ -1323,8 +1177,7 @@ var dmcHexResource = [{
 	'red': '184',
 	'green': '210',
 	'blue': '230',
-	'hex': '#B8D2E6',
-	'row': 'row 07-07'
+	'hex': '#B8D2E6'
 },
 { 
 	'dmcID': '3755', 
@@ -1332,8 +1185,7 @@ var dmcHexResource = [{
 	'red': '147',
 	'green': '180',
 	'blue': '206',
-	'hex': '#92B4CE',
-	'row': 'row 07-08'
+	'hex': '#92B4CE'
 },
 { 
 	'dmcID': '334', 
@@ -1341,8 +1193,7 @@ var dmcHexResource = [{
 	'red': '115',
 	'green': '159',
 	'blue': '193',
-	'hex': '#739FC1',
-	'row': 'row 07-09'
+	'hex': '#739FC1'
 },
 { 
 	'dmcID': '322', 
@@ -1350,8 +1201,7 @@ var dmcHexResource = [{
 	'red': '90',
 	'green': '143',
 	'blue': '184',
-	'hex': '#5A8FB8',
-	'row': 'row 07-10'
+	'hex': '#5A8FB8'
 },
 { 
 	'dmcID': '312', 
@@ -1359,8 +1209,7 @@ var dmcHexResource = [{
 	'red': '53',
 	'green': '102',
 	'blue': '139',
-	'hex': '#35668B',
-	'row': 'row 07-11'
+	'hex': '#35668B'
 },
 { 
 	'dmcID': '803', 
@@ -1368,8 +1217,7 @@ var dmcHexResource = [{
 	'red': '44',
 	'green': '89',
 	'blue': '124',
-	'hex': '#2C597C',
-	'row': 'row 07-12'
+	'hex': '#2C597C'
 },
 { 
 	'dmcID': '336', 
@@ -1377,8 +1225,7 @@ var dmcHexResource = [{
 	'red': '37',
 	'green': '59',
 	'blue': '115',
-	'hex': '#253B73',
-	'row': 'row 07-13'
+	'hex': '#253B73'
 },
 { 
 	'dmcID': '823', 
@@ -1386,8 +1233,7 @@ var dmcHexResource = [{
 	'red': '33',
 	'green': '48',
 	'blue': '99',
-	'hex': '#213063',
-	'row': 'row 07-14'
+	'hex': '#213063'
 },
 { 
 	'dmcID': '939', 
@@ -1395,8 +1241,7 @@ var dmcHexResource = [{
 	'red': '27',
 	'green': '40',
 	'blue': '83',
-	'hex': '#1B2853',
-	'row': 'row 07-15'
+	'hex': '#1B2853'
 },
 { 
 	'dmcID': '3753', 
@@ -1404,8 +1249,7 @@ var dmcHexResource = [{
 	'red': '219',
 	'green': '226',
 	'blue': '233',
-	'hex': '#DBE2E9',
-	'row': 'row 07-16'
+	'hex': '#DBE2E9'
 },
 { 
 	'dmcID': '3752', 
@@ -1413,8 +1257,7 @@ var dmcHexResource = [{
 	'red': '199',
 	'green': '209',
 	'blue': '219',
-	'hex': '#C7D1DB',
-	'row': 'row 07-17'
+	'hex': '#C7D1DB'
 },
 { 
 	'dmcID': '932', 
@@ -1422,8 +1265,7 @@ var dmcHexResource = [{
 	'red': '162',
 	'green': '181',
 	'blue': '198',
-	'hex': '#A2B5C6',
-	'row': 'row 07-18'
+	'hex': '#A2B5C6'
 },
 { 
 	'dmcID': '931', 
@@ -1431,8 +1273,7 @@ var dmcHexResource = [{
 	'red': '106',
 	'green': '133',
 	'blue': '158',
-	'hex': '#6A859E',
-	'row': 'row 07-19'
+	'hex': '#6A859E'
 },
 { 
 	'dmcID': '930', 
@@ -1440,8 +1281,7 @@ var dmcHexResource = [{
 	'red': '69',
 	'green': '92',
 	'blue': '113',
-	'hex': '#455C71',
-	'row': 'row 07-20'
+	'hex': '#455C71'
 },
 { 
 	'dmcID': '3750', 
@@ -1449,8 +1289,7 @@ var dmcHexResource = [{
 	'red': '56',
 	'green': '76',
 	'blue': '94',
-	'hex': '#384C5E',
-	'row': 'row 07-21'
+	'hex': '#384C5E'
 },
 { 
 	'dmcID': '828', 
@@ -1458,8 +1297,7 @@ var dmcHexResource = [{
 	'red': '197',
 	'green': '232',
 	'blue': '237',
-	'hex': '#C5E8ED',
-	'row': 'row 08-01'
+	'hex': '#C5E8ED'
 },
 { 
 	'dmcID': '3761', 
@@ -1467,8 +1305,7 @@ var dmcHexResource = [{
 	'red': '172',
 	'green': '216',
 	'blue': '226',
-	'hex': '#ACD8E2',
-	'row': 'row 08-02'
+	'hex': '#ACD8E2'
 },
 { 
 	'dmcID': '519', 
@@ -1476,8 +1313,7 @@ var dmcHexResource = [{
 	'red': '126',
 	'green': '177',
 	'blue': '200',
-	'hex': '#7EB1C8',
-	'row': 'row 08-03'
+	'hex': '#7EB1C8'
 },
 { 
 	'dmcID': '518', 
@@ -1485,8 +1321,7 @@ var dmcHexResource = [{
 	'red': '79',
 	'green': '147',
 	'blue': '167',
-	'hex': '#4F93A7',
-	'row': 'row 08-04'
+	'hex': '#4F93A7'
 },
 { 
 	'dmcID': '3760', 
@@ -1494,8 +1329,7 @@ var dmcHexResource = [{
 	'red': '62',
 	'green': '133',
 	'blue': '162',
-	'hex': '#3E85A2',
-	'row': 'row 08-05'
+	'hex': '#3E85A2'
 },
 { 
 	'dmcID': '517', 
@@ -1503,8 +1337,7 @@ var dmcHexResource = [{
 	'red': '59',
 	'green': '118',
 	'blue': '143',
-	'hex': '#3B768F',
-	'row': 'row 08-06'
+	'hex': '#3B768F'
 },
 { 
 	'dmcID': '3842', 
@@ -1512,8 +1345,7 @@ var dmcHexResource = [{
 	'red': '50',
 	'green': '102',
 	'blue': '124',
-	'hex': '#32667C',
-	'row': 'row 08-07'
+	'hex': '#32667C'
 },
 { 
 	'dmcID': '311', 
@@ -1521,8 +1353,7 @@ var dmcHexResource = [{
 	'red': '28',
 	'green': '80',
 	'blue': '102',
-	'hex': '#1C5066',
-	'row': 'row 08-08'
+	'hex': '#1C5066'
 },
 { 
 	'dmcID': '747', 
@@ -1530,8 +1361,7 @@ var dmcHexResource = [{
 	'red': '229',
 	'green': '252',
 	'blue': '253',
-	'hex': '#E5FCFD',
-	'row': 'row 08-09'
+	'hex': '#E5FCFD'
 },
 { 
 	'dmcID': '3766', 
@@ -1539,8 +1369,7 @@ var dmcHexResource = [{
 	'red': '153',
 	'green': '207',
 	'blue': '217',
-	'hex': '#99CFD9',
-	'row': 'row 08-10'
+	'hex': '#99CFD9'
 },
 { 
 	'dmcID': '807', 
@@ -1548,8 +1377,7 @@ var dmcHexResource = [{
 	'red': '100',
 	'green': '171',
 	'blue': '186',
-	'hex': '#64ABBA',
-	'row': 'row 08-11'
+	'hex': '#64ABBA'
 },
 { 
 	'dmcID': '806', 
@@ -1557,8 +1385,7 @@ var dmcHexResource = [{
 	'red': '61',
 	'green': '149',
 	'blue': '165',
-	'hex': '#3D95A5',
-	'row': 'row 08-12'
+	'hex': '#3D95A5'
 },
 { 
 	'dmcID': '3765', 
@@ -1566,8 +1393,7 @@ var dmcHexResource = [{
 	'red': '52',
 	'green': '127',
 	'blue': '140',
-	'hex': '#347F8C',
-	'row': 'row 08-13'
+	'hex': '#347F8C'
 },
 { 
 	'dmcID': '3811', 
@@ -1575,8 +1401,7 @@ var dmcHexResource = [{
 	'red': '188',
 	'green': '227',
 	'blue': '230',
-	'hex': '#BCE3E6',
-	'row': 'row 08-14'
+	'hex': '#BCE3E6'
 },
 { 
 	'dmcID': '598', 
@@ -1584,8 +1409,7 @@ var dmcHexResource = [{
 	'red': '144',
 	'green': '195',
 	'blue': '204',
-	'hex': '#90C3CC',
-	'row': 'row 08-15'
+	'hex': '#90C3CC'
 },
 { 
 	'dmcID': '597', 
@@ -1593,8 +1417,7 @@ var dmcHexResource = [{
 	'red': '91',
 	'green': '163',
 	'blue': '179',
-	'hex': '#5BA3B3',
-	'row': 'row 08-16'
+	'hex': '#5BA3B3'
 },
 { 
 	'dmcID': '3810', 
@@ -1602,8 +1425,7 @@ var dmcHexResource = [{
 	'red': '72',
 	'green': '142',
 	'blue': '154',
-	'hex': '#488E9A',
-	'row': 'row 08-17'
+	'hex': '#488E9A'
 },
 { 
 	'dmcID': '3809', 
@@ -1611,8 +1433,7 @@ var dmcHexResource = [{
 	'red': '63',
 	'green': '124',
 	'blue': '133',
-	'hex': '#3F7C85',
-	'row': 'row 08-18'
+	'hex': '#3F7C85'
 },
 { 
 	'dmcID': '3808', 
@@ -1620,8 +1441,7 @@ var dmcHexResource = [{
 	'red': '54',
 	'green': '105',
 	'blue': '112',
-	'hex': '#366970',
-	'row': 'row 08-19'
+	'hex': '#366970'
 },
 { 
 	'dmcID': '928', 
@@ -1629,8 +1449,7 @@ var dmcHexResource = [{
 	'red': '221',
 	'green': '227',
 	'blue': '227',
-	'hex': '#DDE3E3',
-	'row': 'row 08-20'
+	'hex': '#DDE3E3'
 },
 { 
 	'dmcID': '927', 
@@ -1638,8 +1457,7 @@ var dmcHexResource = [{
 	'red': '189',
 	'green': '203',
 	'blue': '203',
-	'hex': '#BDCBCB',
-	'row': 'row 08-21'
+	'hex': '#BDCBCB'
 },
 { 
 	'dmcID': '926', 
@@ -1647,8 +1465,7 @@ var dmcHexResource = [{
 	'red': '152',
 	'green': '174',
 	'blue': '174',
-	'hex': '#98AEAE',
-	'row': 'row 08-22'
+	'hex': '#98AEAE'
 },
 { 
 	'dmcID': '3768', 
@@ -1656,8 +1473,7 @@ var dmcHexResource = [{
 	'red': '101',
 	'green': '127',
 	'blue': '127',
-	'hex': '#657F7F',
-	'row': 'row 08-23'
+	'hex': '#657F7F'
 },
 { 
 	'dmcID': '924', 
@@ -1665,8 +1481,7 @@ var dmcHexResource = [{
 	'red': '86',
 	'green': '106',
 	'blue': '106',
-	'hex': '#566A6A',
-	'row': 'row 08-24'
+	'hex': '#566A6A'
 },
 { 
 	'dmcID': '3849', 
@@ -1674,8 +1489,7 @@ var dmcHexResource = [{
 	'red': '82',
 	'green': '179',
 	'blue': '164',
-	'hex': '#52B3AE',
-	'row': 'row 08-25'
+	'hex': '#52B3AE'
 },
 { 
 	'dmcID': '3848', 
@@ -1683,8 +1497,7 @@ var dmcHexResource = [{
 	'red': '85',
 	'green': '147',
 	'blue': '146',
-	'hex': '#419392',
-	'row': 'row 08-26'
+	'hex': '#419392'
 },
 { 
 	'dmcID': '3847', 
@@ -1692,8 +1505,7 @@ var dmcHexResource = [{
 	'red': '52',
 	'green': '125',
 	'blue': '117',
-	'hex': '#347D75',
-	'row': 'row 08-27'
+	'hex': '#347D75'
 },
 { 
 	'dmcID': '964', 
@@ -1701,8 +1513,7 @@ var dmcHexResource = [{
 	'red': '169',
 	'green': '226',
 	'blue': '216',
-	'hex': '#A9E2D8',
-	'row': 'row 09-01'
+	'hex': '#A9E2D8'
 },
 { 
 	'dmcID': '959', 
@@ -1710,8 +1521,7 @@ var dmcHexResource = [{
 	'red': '89',
 	'green': '199',
 	'blue': '180',
-	'hex': '#59C7B4',
-	'row': 'row 09-02'
+	'hex': '#59C7B4'
 },
 { 
 	'dmcID': '958', 
@@ -1719,8 +1529,7 @@ var dmcHexResource = [{
 	'red': '62',
 	'green': '182',
 	'blue': '161',
-	'hex': '#3EB6A1',
-	'row': 'row 09-03'
+	'hex': '#3EB6A1'
 },
 { 
 	'dmcID': '3812', 
@@ -1728,8 +1537,7 @@ var dmcHexResource = [{
 	'red': '47',
 	'green': '140',
 	'blue': '132',
-	'hex': '#2F8C84',
-	'row': 'row 09-04'
+	'hex': '#2F8C84'
 },
 { 
 	'dmcID': '3851', 
@@ -1737,8 +1545,7 @@ var dmcHexResource = [{
 	'red': '73',
 	'green': '179',
 	'blue': '161',
-	'hex': '#49B3A1',
-	'row': 'row 09-05'
+	'hex': '#49B3A1'
 },
 { 
 	'dmcID': '943', 
@@ -1746,8 +1553,7 @@ var dmcHexResource = [{
 	'red': '61',
 	'green': '147',
 	'blue': '132',
-	'hex': '#3D9384',
-	'row': 'row 09-06'
+	'hex': '#3D9384'
 },
 { 
 	'dmcID': '3850', 
@@ -1755,8 +1561,7 @@ var dmcHexResource = [{
 	'red': '55',
 	'green': '132',
 	'blue': '119',
-	'hex': '#378477',
-	'row': 'row 09-07'
+	'hex': '#378477'
 },
 { 
 	'dmcID': '993', 
@@ -1764,8 +1569,7 @@ var dmcHexResource = [{
 	'red': '144',
 	'green': '192',
 	'blue': '180',
-	'hex': '#90C0B4',
-	'row': 'row 09-08'
+	'hex': '#90C0B4'
 },
 { 
 	'dmcID': '992', 
@@ -1773,8 +1577,7 @@ var dmcHexResource = [{
 	'red': '111',
 	'green': '174',
 	'blue': '159',
-	'hex': '#6FAE9F',
-	'row': 'row 09-09'
+	'hex': '#6FAE9F'
 },
 { 
 	'dmcID': '3814', 
@@ -1782,8 +1585,7 @@ var dmcHexResource = [{
 	'red': '80',
 	'green': '139',
 	'blue': '125',
-	'hex': '#508B7D',
-	'row': 'row 09-10'
+	'hex': '#508B7D'
 },
 { 
 	'dmcID': '991', 
@@ -1791,8 +1593,7 @@ var dmcHexResource = [{
 	'red': '71',
 	'green': '123',
 	'blue': '110',
-	'hex': '#477B6E',
-	'row': 'row 09-11'
+	'hex': '#477B6E'
 },
 { 
 	'dmcID': '966', 
@@ -1800,8 +1601,7 @@ var dmcHexResource = [{
 	'red': '185',
 	'green': '215',
 	'blue': '192',
-	'hex': '#B9D7C0',
-	'row': 'row 09-12'
+	'hex': '#B9D7C0'
 },
 { 
 	'dmcID': '564', 
@@ -1809,8 +1609,7 @@ var dmcHexResource = [{
 	'red': '167',
 	'green': '205',
 	'blue': '175',
-	'hex': '#A7CDAF',
-	'row': 'row 09-13'
+	'hex': '#A7CDAF'
 },
 { 
 	'dmcID': '563', 
@@ -1818,8 +1617,7 @@ var dmcHexResource = [{
 	'red': '143',
 	'green': '192',
 	'blue': '152',
-	'hex': '#8FC098',
-	'row': 'row 09-14'
+	'hex': '#8FC098'
 },
 { 
 	'dmcID': '562', 
@@ -1827,8 +1625,7 @@ var dmcHexResource = [{
 	'red': '83',
 	'green': '151',
 	'blue': '106',
-	'hex': '#53976A',
-	'row': 'row 09-15'
+	'hex': '#53976A'
 },
 { 
 	'dmcID': '505', 
@@ -1836,8 +1633,7 @@ var dmcHexResource = [{
 	'red': '51',
 	'green': '131',
 	'blue': '98',
-	'hex': '#338362',
-	'row': 'row 09-16'
+	'hex': '#338362'
 },
 { 
 	'dmcID': '3817', 
@@ -1845,8 +1641,7 @@ var dmcHexResource = [{
 	'red': '153',
 	'green': '195',
 	'blue': '170',
-	'hex': '#99C3AA',
-	'row': 'row 09-17'
+	'hex': '#99C3AA'
 },
 { 
 	'dmcID': '3816', 
@@ -1854,8 +1649,7 @@ var dmcHexResource = [{
 	'red': '101',
 	'green': '165',
 	'blue': '125',
-	'hex': '#65A57D',
-	'row': 'row 09-18'
+	'hex': '#65A57D'
 },
 { 
 	'dmcID': '163', 
@@ -1863,8 +1657,7 @@ var dmcHexResource = [{
 	'red': '77',
 	'green': '131',
 	'blue': '97',
-	'hex': '#4D8361',
-	'row': 'row 09-19'
+	'hex': '#4D8361'
 },
 { 
 	'dmcID': '3815', 
@@ -1872,8 +1665,7 @@ var dmcHexResource = [{
 	'red': '71',
 	'green': '119',
 	'blue': '89',
-	'hex': '#477759',
-	'row': 'row 09-20'
+	'hex': '#477759'
 },
 { 
 	'dmcID': '561', 
@@ -1881,8 +1673,7 @@ var dmcHexResource = [{
 	'red': '44',
 	'green': '106',
 	'blue': '69',
-	'hex': '#2C6A45',
-	'row': 'row 09-21'
+	'hex': '#2C6A45'
 },
 { 
 	'dmcID': '504', 
@@ -1890,8 +1681,7 @@ var dmcHexResource = [{
 	'red': '196',
 	'green': '222',
 	'blue': '204',
-	'hex': '#C4DECC',
-	'row': 'row 09-22'
+	'hex': '#C4DECC'
 },
 { 
 	'dmcID': '3813', 
@@ -1899,8 +1689,7 @@ var dmcHexResource = [{
 	'red': '178',
 	'green': '212',
 	'blue': '189',
-	'hex': '#B2D4BD',
-	'row': 'row 09-23'
+	'hex': '#B2D4BD'
 },
 { 
 	'dmcID': '503', 
@@ -1908,8 +1697,7 @@ var dmcHexResource = [{
 	'red': '123',
 	'green': '172',
 	'blue': '148',
-	'hex': '#7BAC94',
-	'row': 'row 09-24'
+	'hex': '#7BAC94'
 },
 { 
 	'dmcID': '502', 
@@ -1917,8 +1705,7 @@ var dmcHexResource = [{
 	'red': '91',
 	'green': '144',
 	'blue': '113',
-	'hex': '#5B9071',
-	'row': 'row 09-25'
+	'hex': '#5B9071'
 },
 { 
 	'dmcID': '501', 
@@ -1926,8 +1713,7 @@ var dmcHexResource = [{
 	'red': '57',
 	'green': '111',
 	'blue': '82',
-	'hex': '#396F52',
-	'row': 'row 09-26'
+	'hex': '#396F52'
 },
 { 
 	'dmcID': '500', 
@@ -1935,8 +1721,7 @@ var dmcHexResource = [{
 	'red': '4',
 	'green': '77',
 	'blue': '51',
-	'hex': '#044D33',
-	'row': 'row 09-27'
+	'hex': '#044D33'
 },
 { 
 	'dmcID': '955', 
@@ -1944,8 +1729,7 @@ var dmcHexResource = [{
 	'red': '162',
 	'green': '214',
 	'blue': '173',
-	'hex': '#A2D6AD',
-	'row': 'row 10-01'
+	'hex': '#A2D6AD'
 },
 { 
 	'dmcID': '954', 
@@ -1953,8 +1737,7 @@ var dmcHexResource = [{
 	'red': '136',
 	'green': '186',
 	'blue': '145',
-	'hex': '#88BA91',
-	'row': 'row 10-02'
+	'hex': '#88BA91'
 },
 { 
 	'dmcID': '913', 
@@ -1962,8 +1745,7 @@ var dmcHexResource = [{
 	'red': '109',
 	'green': '171',
 	'blue': '119',
-	'hex': '#6DAB77',
-	'row': 'row 10-03'
+	'hex': '#6DAB77'
 },
 { 
 	'dmcID': '912', 
@@ -1971,8 +1753,7 @@ var dmcHexResource = [{
 	'red': '27',
 	'green': '157',
 	'blue': '107',
-	'hex': '#1B9D6B',
-	'row': 'row 10-04'
+	'hex': '#1B9D6B'
 },
 { 
 	'dmcID': '911', 
@@ -1980,8 +1761,7 @@ var dmcHexResource = [{
 	'red': '24',
 	'green': '144',
 	'blue': '101',
-	'hex': '#189065',
-	'row': 'row 10-05'
+	'hex': '#189065'
 },
 { 
 	'dmcID': '910', 
@@ -1989,17 +1769,15 @@ var dmcHexResource = [{
 	'red': '24',
 	'green': '126',
 	'blue': '86',
-	'hex': '#187E58'.
-	'row': 'row 10-06'
-}
+	'hex': '#187E58'
+},
 { 
 	'dmcID': '909', 
 	'description': 'Emerald Green Vy Dk',
 	'red': '21',
 	'green': '111',
 	'blue': '73',
-	'hex': '#156F49',
-	'row': 'row 10-07'
+	'hex': '#156F49'
 },
 { 
 	'dmcID': '3818', 
@@ -2007,8 +1785,7 @@ var dmcHexResource = [{
 	'red': '17',
 	'green': '90',
 	'blue': '59',
-	'hex': '#115A3B',
-	'row': 'row 10-08'
+	'hex': '#115A3B'
 },
 { 
 	'dmcID': '369', 
@@ -2016,8 +1793,7 @@ var dmcHexResource = [{
 	'red': '215',
 	'green': '237',
 	'blue': '204',
-	'hex': '#D7EDCC',
-	'row': 'row 10-09'
+	'hex': '#D7EDCC'
 },
 { 
 	'dmcID': '368', 
@@ -2025,8 +1801,7 @@ var dmcHexResource = [{
 	'red': '166',
 	'green': '194',
 	'blue': '152',
-	'hex': '#A6C298',
-	'row': 'row 10-10'
+	'hex': '#A6C298'
 },
 { 
 	'dmcID': '320', 
@@ -2034,8 +1809,7 @@ var dmcHexResource = [{
 	'red': '105',
 	'green': '136',
 	'blue': '90',
-	'hex': '#69885A',
-	'row': 'row 10-11'
+	'hex': '#69885A'
 },
 { 
 	'dmcID': '367', 
@@ -2043,8 +1817,7 @@ var dmcHexResource = [{
 	'red': '97',
 	'green': '122',
 	'blue': '82',
-	'hex': '#617A52',
-	'row': 'row 10-12'
+	'hex': '#617A52'
 },
 { 
 	'dmcID': '319', 
@@ -2052,8 +1825,7 @@ var dmcHexResource = [{
 	'red': '32',
 	'green': '95',
 	'blue': '46',
-	'hex': '#205F2E',
-	'row': 'row 10-13'
+	'hex': '#205F2E'
 },
 { 
 	'dmcID': '890', 
@@ -2061,8 +1833,7 @@ var dmcHexResource = [{
 	'red': '23',
 	'green': '73',
 	'blue': '35',
-	'hex': '#184923',
-	'row': 'row 10-14'
+	'hex': '#184923'
 },
 { 
 	'dmcID': '164', 
@@ -2070,8 +1841,7 @@ var dmcHexResource = [{
 	'red': '200',
 	'green': '216',
 	'blue': '184',
-	'hex': '#C8D8B8',
-	'row': 'row 10-15'
+	'hex': '#C8D8B8'
 },
 { 
 	'dmcID': '989', 
@@ -2079,8 +1849,7 @@ var dmcHexResource = [{
 	'red': '141',
 	'green': '166',
 	'blue': '117',
-	'hex': '#8DA675',
-	'row': 'row 10-16'
+	'hex': '#8DA675'
 },
 { 
 	'dmcID': '988', 
@@ -2088,8 +1857,7 @@ var dmcHexResource = [{
 	'red': '115',
 	'green': '139',
 	'blue': '91',
-	'hex': '#738B5B',
-	'row': 'row 10-17'
+	'hex': '#738B5B'
 },
 { 
 	'dmcID': '987', 
@@ -2097,8 +1865,7 @@ var dmcHexResource = [{
 	'red': '88',
 	'green': '113',
 	'blue': '65',
-	'hex': '#587141',
-	'row': 'row 10-18'
+	'hex': '#587141'
 },
 { 
 	'dmcID': '986', 
@@ -2106,8 +1873,7 @@ var dmcHexResource = [{
 	'red': '64',
 	'green': '82',
 	'blue': '48',
-	'hex': '#405230',
-	'row': 'row 10-19'
+	'hex': '#405230'
 },
 { 
 	'dmcID': '772', 
@@ -2115,8 +1881,7 @@ var dmcHexResource = [{
 	'red': '228',
 	'green': '236',
 	'blue': '212',
-	'hex': '#E4ECD4',
-	'row': 'row 10-20'
+	'hex': '#E4ECD4'
 },
 { 
 	'dmcID': '3348', 
@@ -2124,8 +1889,7 @@ var dmcHexResource = [{
 	'red': '204',
 	'green': '217',
 	'blue': '177',
-	'hex': '#CCD9B1',
-	'row': 'row 10-21'
+	'hex': '#CCD9B1'
 },
 { 
 	'dmcID': '3347', 
@@ -2133,8 +1897,7 @@ var dmcHexResource = [{
 	'red': '113',
 	'green': '147',
 	'blue': '92',
-	'hex': '#71935C',
-	'row': 'row 10-22'
+	'hex': '#71935C'
 },
 { 
 	'dmcID': '3346', 
@@ -2142,8 +1905,7 @@ var dmcHexResource = [{
 	'red': '64',
 	'green': '106',
 	'blue': '58',
-	'hex': '#406A3A',
-	'row': 'row 10-23'
+	'hex': '#406A3A'
 },
 { 
 	'dmcID': '3345', 
@@ -2151,8 +1913,7 @@ var dmcHexResource = [{
 	'red': '27',
 	'green': '89',
 	'blue': '21',
-	'hex': '#1B5915',
-	'row': 'row 10-24'
+	'hex': '#1B5915'
 },
 { 
 	'dmcID': '895', 
@@ -2160,8 +1921,7 @@ var dmcHexResource = [{
 	'red': '27',
 	'green': '83',
 	'blue': '0',
-	'hex': '#1B5300',
-	'row': 'row 10-25'
+	'hex': '#1B5300'
 },
 { 
 	'dmcID': '704', 
@@ -2169,8 +1929,7 @@ var dmcHexResource = [{
 	'red': '158',
 	'green': '207',
 	'blue': '52',
-	'hex': '#9ECF34',
-	'row': 'row 11-01'
+	'hex': '#9ECF34'
 },
 { 
 	'dmcID': '703', 
@@ -2178,8 +1937,7 @@ var dmcHexResource = [{
 	'red': '123',
 	'green': '181',
 	'blue': '71',
-	'hex': '#7BB547',
-	'row': 'row 11-02'
+	'hex': '#7BB547'
 },
 { 
 	'dmcID': '702', 
@@ -2187,8 +1945,7 @@ var dmcHexResource = [{
 	'red': '71',
 	'green': '167',
 	'blue': '47',
-	'hex': '#47A72F',
-	'row': 'row 11-03'
+	'hex': '#47A72F'
 },
 { 
 	'dmcID': '701', 
@@ -2196,8 +1953,7 @@ var dmcHexResource = [{
 	'red': '63',
 	'green': '143',
 	'blue': '41',
-	'hex': '#3F8F29',
-	'row': 'row 11-04'
+	'hex': '#3F8F29'
 },
 { 
 	'dmcID': '700', 
@@ -2205,8 +1961,7 @@ var dmcHexResource = [{
 	'red': '7',
 	'green': '115',
 	'blue': '27',
-	'hex': '#07731B',
-	'row': 'row 11-05'
+	'hex': '#07731B'
 },
 { 
 	'dmcID': '699', 
@@ -2214,8 +1969,7 @@ var dmcHexResource = [{
 	'red': '5',
 	'green': '101',
 	'blue': '23',
-	'hex': '#56517',
-	'row': 'row 11-06'
+	'hex': '#56517'
 },
 { 
 	'dmcID': '907', 
@@ -2223,8 +1977,7 @@ var dmcHexResource = [{
 	'red': '199',
 	'green': '230',
 	'blue': '102',
-	'hex': '#C7E666',
-	'row': 'row 11-07'
+	'hex': '#C7E666'
 },
 { 
 	'dmcID': '906', 
@@ -2232,8 +1985,7 @@ var dmcHexResource = [{
 	'red': '127',
 	'green': '179',
 	'blue': '53',
-	'hex': '#7FB335',
-	'row': 'row 11-08'
+	'hex': '#7FB335'
 },
 { 
 	'dmcID': '905', 
@@ -2241,8 +1993,7 @@ var dmcHexResource = [{
 	'red': '98',
 	'green': '138',
 	'blue': '40',
-	'hex': '#628A28',
-	'row': 'row 11-09'
+	'hex': '#628A28'
 },
 { 
 	'dmcID': '904', 
@@ -2250,8 +2001,7 @@ var dmcHexResource = [{
 	'red': '85',
 	'green': '120',
 	'blue': '34',
-	'hex': '#557822',
-	'row': 'row 11-10'
+	'hex': '#557822'
 },
 { 
 	'dmcID': '472', 
@@ -2259,8 +2009,7 @@ var dmcHexResource = [{
 	'red': '216',
 	'green': '228',
 	'blue': '152',
-	'hex': '#D8E498',
-	'row': 'row 11-11'
+	'hex': '#D8E498'
 },
 { 
 	'dmcID': '471', 
@@ -2268,8 +2017,7 @@ var dmcHexResource = [{
 	'red': '174',
 	'green': '191',
 	'blue': '121',
-	'hex': '#AEBF79',
-	'row': 'row 11-12'
+	'hex': '#AEBF79'
 },
 { 
 	'dmcID': '470', 
@@ -2277,8 +2025,7 @@ var dmcHexResource = [{
 	'red': '148',
 	'green': '171',
 	'blue': '79',
-	'hex': '#94AB4F',
-	'row': 'row 11-13'
+	'hex': '#94AB4F'
 },
 { 
 	'dmcID': '469', 
@@ -2286,8 +2033,7 @@ var dmcHexResource = [{
 	'red': '114',
 	'green': '132',
 	'blue': '60',
-	'hex': '#72843C',
-	'row': 'row 11-14'
+	'hex': '#72843C'
 },
 { 
 	'dmcID': '937', 
@@ -2295,8 +2041,7 @@ var dmcHexResource = [{
 	'red': '98',
 	'green': '113',
 	'blue': '51',
-	'hex': '#627133',
-	'row': 'row 11-15'
+	'hex': '#627133'
 },
 { 
 	'dmcID': '936', 
@@ -2304,8 +2049,7 @@ var dmcHexResource = [{
 	'red': '76',
 	'green': '88',
 	'blue': '38',
-	'hex': '#4C5826',
-	'row': 'row 11-16'
+	'hex': '#4C5826'
 },
 { 
 	'dmcID': '935', 
@@ -2313,8 +2057,7 @@ var dmcHexResource = [{
 	'red': '66',
 	'green': '77',
 	'blue': '33',
-	'hex': '#424D21',
-	'row': 'row 11-17'
+	'hex': '#424D21'
 },
 { 
 	'dmcID': '934', 
@@ -2322,8 +2065,7 @@ var dmcHexResource = [{
 	'red': '49',
 	'green': '57',
 	'blue': '25',
-	'hex': '#313919',
-	'row': 'row 11-18'
+	'hex': '#313919'
 },
 { 
 	'dmcID': '523', 
@@ -2331,8 +2073,7 @@ var dmcHexResource = [{
 	'red': '171',
 	'green': '177',
 	'blue': '151',
-	'hex': '#ABB197',
-	'row': 'row 11-19'
+	'hex': '#ABB197'
 },
 { 
 	'dmcID': '3053', 
@@ -2340,8 +2081,7 @@ var dmcHexResource = [{
 	'red': '156',
 	'green': '164',
 	'blue': '130',
-	'hex': '#9CA482',
-	'row': 'row 11-20'
+	'hex': '#9CA482'
 },
 { 
 	'dmcID': '3052', 
@@ -2349,8 +2089,7 @@ var dmcHexResource = [{
 	'red': '136',
 	'green': '146',
 	'blue': '104',
-	'hex': '#889268',
-	'row': 'row 11-21'
+	'hex': '#889268'
 },
 { 
 	'dmcID': '3051', 
@@ -2358,8 +2097,7 @@ var dmcHexResource = [{
 	'red': '95',
 	'green': '102',
 	'blue': '72',
-	'hex': '#5F6648',
-	'row': 'row 11-22'
+	'hex': '#5F6648'
 },
 { 
 	'dmcID': '524', 
@@ -2367,8 +2105,7 @@ var dmcHexResource = [{
 	'red': '196',
 	'green': '205',
 	'blue': '172',
-	'hex': '#C4CDAC',
-	'row': 'row 11-23'
+	'hex': '#C4CDAC'
 },
 { 
 	'dmcID': '522', 
@@ -2376,8 +2113,7 @@ var dmcHexResource = [{
 	'red': '150',
 	'green': '158',
 	'blue': '126',
-	'hex': '#969E7E',
-	'row': 'row 11-24'
+	'hex': '#969E7E'
 },
 { 
 	'dmcID': '520', 
@@ -2385,8 +2121,7 @@ var dmcHexResource = [{
 	'red': '102',
 	'green': '109',
 	'blue': '79',
-	'hex': '#666D4F',
-	'row': 'row 11-25'
+	'hex': '#666D4F'
 },
 { 
 	'dmcID': '3364', 
@@ -2394,8 +2129,7 @@ var dmcHexResource = [{
 	'red': '131',
 	'green': '151',
 	'blue': '95',
-	'hex': '#83975F',
-	'row': 'row 12-01'
+	'hex': '#83975F'
 },
 { 
 	'dmcID': '3363', 
@@ -2403,8 +2137,7 @@ var dmcHexResource = [{
 	'red': '114',
 	'green': '130',
 	'blue': '86',
-	'hex': '#728256',
-	'row': 'row 12-02'
+	'hex': '#728256'
 },
 { 
 	'dmcID': '3362', 
@@ -2412,8 +2145,7 @@ var dmcHexResource = [{
 	'red': '94',
 	'green': '107',
 	'blue': '71',
-	'hex': '#5E6B47',
-	'row': 'row 12-03'
+	'hex': '#5E6B47'
 },
 { 
 	'dmcID': '165', 
@@ -2421,8 +2153,7 @@ var dmcHexResource = [{
 	'red': '239',
 	'green': '244',
 	'blue': '164',
-	'hex': '#EFF4A4',
-	'row': 'row 12-04'
+	'hex': '#EFF4A4'
 },
 { 
 	'dmcID': '3819', 
@@ -2430,8 +2161,7 @@ var dmcHexResource = [{
 	'red': '224',
 	'green': '232',
 	'blue': '104',
-	'hex': '#E0E868',
-	'row': 'row 12-05'
+	'hex': '#E0E868'
 },
 { 
 	'dmcID': '166', 
@@ -2439,8 +2169,7 @@ var dmcHexResource = [{
 	'red': '192',
 	'green': '200',
 	'blue': '64',
-	'hex': '#C0C840',
-	'row': 'row 12-06'
+	'hex': '#C0C840'
 },
 { 
 	'dmcID': '581', 
@@ -2448,8 +2177,7 @@ var dmcHexResource = [{
 	'red': '167',
 	'green': '174',
 	'blue': '56',
-	'hex': '#A7AE38',
-	'row': 'row 12-07'
+	'hex': '#A7AE38'
 },
 { 
 	'dmcID': '580', 
@@ -2457,8 +2185,7 @@ var dmcHexResource = [{
 	'red': '136',
 	'green': '141',
 	'blue': '51',
-	'hex': '#888D33',
-	'row': 'row 12-08'
+	'hex': '#888D33'
 },
 { 
 	'dmcID': '734', 
@@ -2466,8 +2193,7 @@ var dmcHexResource = [{
 	'red': '199',
 	'green': '192',
 	'blue': '119',
-	'hex': '#C7C077',
-	'row': 'row 12-09'
+	'hex': '#C7C077'
 },
 { 
 	'dmcID': '733', 
@@ -2475,8 +2201,7 @@ var dmcHexResource = [{
 	'red': '188',
 	'green': '179',
 	'blue': '76',
-	'hex': '#BCB34C',
-	'row': 'row 12-10'
+	'hex': '#BCB34C'
 },
 { 
 	'dmcID': '732', 
@@ -2484,8 +2209,7 @@ var dmcHexResource = [{
 	'red': '148',
 	'green': '140',
 	'blue': '54',
-	'hex': '#948C36',
-	'row': 'row 12-11'
+	'hex': '#948C36'
 },
 { 
 	'dmcID': '731', 
@@ -2493,8 +2217,7 @@ var dmcHexResource = [{
 	'red': '147',
 	'green': '139',
 	'blue': '55',
-	'hex': '#938B37',
-	'row': 'row 12-12'
+	'hex': '#938B37'
 },
 { 
 	'dmcID': '730', 
@@ -2502,8 +2225,7 @@ var dmcHexResource = [{
 	'red': '130',
 	'green': '123',
 	'blue': '48',
-	'hex': '#827B30',
-	'row': 'row 12-13'
+	'hex': '#827B30'
 },
 { 
 	'dmcID': '3013', 
@@ -2511,8 +2233,7 @@ var dmcHexResource = [{
 	'red': '185',
 	'green': '185',
 	'blue': '130',
-	'hex': '#B9B982',
-	'row': 'row 12-14'
+	'hex': '#B9B982'
 },
 { 
 	'dmcID': '3012', 
@@ -2520,8 +2241,7 @@ var dmcHexResource = [{
 	'red': '166',
 	'green': '167',
 	'blue': '93',
-	'hex': '#A6A75D',
-	'row': 'row 12-15'
+	'hex': '#A6A75D'
 },
 { 
 	'dmcID': '3011', 
@@ -2529,8 +2249,7 @@ var dmcHexResource = [{
 	'red': '137',
 	'green': '138',
 	'blue': '88',
-	'hex': '#898A58',
-	'row': 'row 12-16'
+	'hex': '#898A58'
 },
 { 
 	'dmcID': '372', 
@@ -2538,8 +2257,7 @@ var dmcHexResource = [{
 	'red': '204',
 	'green': '183',
 	'blue': '132',
-	'hex': '#CCB784',
-	'row': 'row 12-17'
+	'hex': '#CCB784'
 },
 { 
 	'dmcID': '371', 
@@ -2547,8 +2265,7 @@ var dmcHexResource = [{
 	'red': '191',
 	'green': '166',
 	'blue': '113',
-	'hex': '#BFA671',
-	'row': 'row 12-18'
+	'hex': '#BFA671'
 },
 { 
 	'dmcID': '370', 
@@ -2556,8 +2273,7 @@ var dmcHexResource = [{
 	'red': '184',
 	'green': '157',
 	'blue': '100',
-	'hex': '#B89D64',
-	'row': 'row 12-19'
+	'hex': '#B89D64'
 },
 { 
 	'dmcID': '834', 
@@ -2565,8 +2281,7 @@ var dmcHexResource = [{
 	'red': '219',
 	'green': '190',
 	'blue': '127',
-	'hex': '#DBBE7F',
-	'row': 'row 12-20'
+	'hex': '#DBBE7F'
 },
 { 
 	'dmcID': '833', 
@@ -2574,8 +2289,7 @@ var dmcHexResource = [{
 	'red': '200',
 	'green': '171',
 	'blue': '108',
-	'hex': '#C8AB6C',
-	'row': 'row 12-21'
+	'hex': '#C8AB6C'
 },
 { 
 	'dmcID': '832', 
@@ -2583,8 +2297,7 @@ var dmcHexResource = [{
 	'red': '189',
 	'green': '155',
 	'blue': '81',
-	'hex': '#BD9B51',
-	'row': 'row 12-22'
+	'hex': '#BD9B51'
 },
 { 
 	'dmcID': '831', 
@@ -2592,8 +2305,7 @@ var dmcHexResource = [{
 	'red': '170',
 	'green': '143',
 	'blue': '86',
-	'hex': '#AA8F56',
-	'row': 'row 12-23'
+	'hex': '#AA8F56'
 },
 { 
 	'dmcID': '830', 
@@ -2601,8 +2313,7 @@ var dmcHexResource = [{
 	'red': '141',
 	'green': '120',
 	'blue': '75',
-	'hex': '#8D784B',
-	'row': 'row 12-24'
+	'hex': '#8D784B'
 },
 { 
 	'dmcID': '829', 
@@ -2610,8 +2321,7 @@ var dmcHexResource = [{
 	'red': '126',
 	'green': '107',
 	'blue': '66',
-	'hex': '#7E6B42',
-	'row': 'row 12-25'
+	'hex': '#7E6B42'
 },
 { 
 	'dmcID': '613', 
@@ -2619,8 +2329,7 @@ var dmcHexResource = [{
 	'red': '220',
 	'green': '196',
 	'blue': '170',
-	'hex': '#DCC4AA',
-	'row': 'row 13-01'
+	'hex': '#DCC4AA'
 },
 { 
 	'dmcID': '612', 
@@ -2628,8 +2337,7 @@ var dmcHexResource = [{
 	'red': '188',
 	'green': '154',
 	'blue': '120',
-	'hex': '#BC9A78',
-	'row': 'row 13-02'
+	'hex': '#BC9A78'
 },
 { 
 	'dmcID': '611', 
@@ -2637,8 +2345,7 @@ var dmcHexResource = [{
 	'red': '150',
 	'green': '118',
 	'blue': '86',
-	'hex': '#967656',
-	'row': 'row 13-03'
+	'hex': '#967656'
 },
 { 
 	'dmcID': '610', 
@@ -2646,8 +2353,7 @@ var dmcHexResource = [{
 	'red': '121',
 	'green': '96',
 	'blue': '71',
-	'hex': '#796047',
-	'row': 'row 13-04'
+	'hex': '#796047'
 },
 { 
 	'dmcID': '3047', 
@@ -2655,8 +2361,7 @@ var dmcHexResource = [{
 	'red': '231',
 	'green': '214',
 	'blue': '193',
-	'hex': '#E7D6C1',
-	'row': 'row 13-05'
+	'hex': '#E7D6C1'
 },
 { 
 	'dmcID': '3046', 
@@ -2664,8 +2369,7 @@ var dmcHexResource = [{
 	'red': '216',
 	'green': '188',
 	'blue': '154',
-	'hex': '#D8BC9A',
-	'row': 'row 13-06'
+	'hex': '#D8BC9A'
 },
 { 
 	'dmcID': '3045', 
@@ -2673,8 +2377,7 @@ var dmcHexResource = [{
 	'red': '188',
 	'green': '150',
 	'blue': '106',
-	'hex': '#BC966A',
-	'row': 'row 13-07'
+	'hex': '#BC966A'
 },
 { 
 	'dmcID': '167', 
@@ -2682,8 +2385,7 @@ var dmcHexResource = [{
 	'red': '167',
 	'green': '124',
 	'blue': '73',
-	'hex': '#A77C49',
-	'row': 'row 13-08'
+	'hex': '#A77C49'
 },
 { 
 	'dmcID': '746', 
@@ -2691,8 +2393,7 @@ var dmcHexResource = [{
 	'red': '252',
 	'green': '252',
 	'blue': '238',
-	'hex': '#FCFCEE',
-	'row': 'row 13-09'
+	'hex': '#FCFCEE'
 },
 { 
 	'dmcID': '677', 
@@ -2700,8 +2401,7 @@ var dmcHexResource = [{
 	'red': '245',
 	'green': '236',
 	'blue': '203',
-	'hex': '#F5ECCB',
-	'row': 'row 13-10'
+	'hex': '#F5ECCB'
 },
 { 
 	'dmcID': '422', 
@@ -2709,8 +2409,7 @@ var dmcHexResource = [{
 	'red': '198',
 	'green': '159',
 	'blue': '123',
-	'hex': '#C69F7B',
-	'row': 'row 13-11'
+	'hex': '#C69F7B'
 },
 { 
 	'dmcID': '3828', 
@@ -2718,8 +2417,7 @@ var dmcHexResource = [{
 	'red': '183',
 	'green': '139',
 	'blue': '97',
-	'hex': '#B78B61',
-	'row': 'row 13-12'
+	'hex': '#B78B61'
 },
 { 
 	'dmcID': '420', 
@@ -2727,8 +2425,7 @@ var dmcHexResource = [{
 	'red': '160',
 	'green': '112',
 	'blue': '66',
-	'hex': '#A07042',
-	'row': 'row 13-13'
+	'hex': '#A07042'
 },
 { 
 	'dmcID': '869', 
@@ -2736,8 +2433,7 @@ var dmcHexResource = [{
 	'red': '131',
 	'green': '94',
 	'blue': '57',
-	'hex': '#835E41'.
-	'row': 'row 13-14'
+	'hex': '#835E41'
 },
 { 
 	'dmcID': '728', 
@@ -2745,8 +2441,7 @@ var dmcHexResource = [{
 	'red': '228',
 	'green': '180',
 	'blue': '104',
-	'hex': '#E4B468',
-	'row': 'row 13-15'
+	'hex': '#E4B468'
 },
 { 
 	'dmcID': '783', 
@@ -2754,8 +2449,7 @@ var dmcHexResource = [{
 	'red': '206',
 	'green': '145',
 	'blue': '36',
-	'hex': '#CE9124',
-	'row': 'row 13-16'
+	'hex': '#CE9124'
 },
 { 
 	'dmcID': '782', 
@@ -2763,8 +2457,7 @@ var dmcHexResource = [{
 	'red': '174',
 	'green': '119',
 	'blue': '32',
-	'hex': '#AE7720',
-	'row': 'row 13-17'
+	'hex': '#AE7720'
 },
 { 
 	'dmcID': '781', 
@@ -2772,8 +2465,7 @@ var dmcHexResource = [{
 	'red': '162',
 	'green': '109',
 	'blue': '32',
-	'hex': '#A26D20',
-	'row': 'row 13-18'
+	'hex': '#A26D20'
 },
 { 
 	'dmcID': '780', 
@@ -2781,8 +2473,7 @@ var dmcHexResource = [{
 	'red': '148',
 	'green': '99',
 	'blue': '26',
-	'hex': '#94631A',
-	'row': 'row 13-19'
+	'hex': '#94631A'
 },
 { 
 	'dmcID': '676', 
@@ -2790,8 +2481,7 @@ var dmcHexResource = [{
 	'red': '229',
 	'green': '206',
 	'blue': '151',
-	'hex': '#E5CE97',
-	'row': 'row 13-20'
+	'hex': '#E5CE97'
 },
 { 
 	'dmcID': '729', 
@@ -2799,8 +2489,7 @@ var dmcHexResource = [{
 	'red': '208',
 	'green': '165',
 	'blue': '62',
-	'hex': '#D0A53E',
-	'row': 'row 13-21'
+	'hex': '#D0A53E'
 },
 { 
 	'dmcID': '680', 
@@ -2808,8 +2497,7 @@ var dmcHexResource = [{
 	'red': '188',
 	'green': '141',
 	'blue': '14',
-	'hex': '#BC8D0E',
-	'row': 'row 13-22'
+	'hex': '#BC8D0E'
 },
 { 
 	'dmcID': '3829', 
@@ -2817,8 +2505,7 @@ var dmcHexResource = [{
 	'red': '169',
 	'green': '130',
 	'blue': '4',
-	'hex': '#A98204',
-	'row': 'row 13-23'
+	'hex': '#A98204'
 },
 { 
 	'dmcID': '3822', 
@@ -2826,8 +2513,7 @@ var dmcHexResource = [{
 	'red': '246',
 	'green': '220',
 	'blue': '152',
-	'hex': '#F6DC98',
-	'row': 'row 13-24'
+	'hex': '#F6DC98'
 },
 { 
 	'dmcID': '3821', 
@@ -2835,8 +2521,7 @@ var dmcHexResource = [{
 	'red': '243',
 	'green': '206',
 	'blue': '117',
-	'hex': '#F3CE75',
-	'row': 'row 13-25'
+	'hex': '#F3CE75'
 },
 { 
 	'dmcID': '3820', 
@@ -2844,8 +2529,7 @@ var dmcHexResource = [{
 	'red': '223',
 	'green': '182',
 	'blue': '95',
-	'hex': '#DFB65F',
-	'row': 'row 13-26'
+	'hex': '#DFB65F'
 },
 { 
 	'dmcID': '3852', 
@@ -2853,8 +2537,7 @@ var dmcHexResource = [{
 	'red': '205',
 	'green': '157',
 	'blue': '55',
-	'hex': '#CD9D37',
-	'row': 'row 13-27'
+	'hex': '#CD9D37'
 },
 { 
 	'dmcID': '445', 
@@ -2862,8 +2545,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '251',
 	'blue': '139',
-	'hex': '#FFFB8B',
-	'row': 'row 14-01'
+	'hex': '#FFFB8B'
 },
 { 
 	'dmcID': '307', 
@@ -2871,8 +2553,7 @@ var dmcHexResource = [{
 	'red': '253',
 	'green': '237',
 	'blue': '84',
-	'hex': '#FDED54',
-	'row': 'row 14-02'
+	'hex': '#FDED54'
 },
 { 
 	'dmcID': '973', 
@@ -2880,8 +2561,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '227',
 	'blue': '0',
-	'hex': '#FFE300',
-	'row': 'row 14-03'
+	'hex': '#FFE300'
 },
 { 
 	'dmcID': '444', 
@@ -2889,8 +2569,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '214',
 	'blue': '0',
-	'hex': '#FFD600',
-	'row': 'row 14-04'
+	'hex': '#FFD600'
 },
 { 
 	'dmcID': '3078', 
@@ -2898,8 +2577,7 @@ var dmcHexResource = [{
 	'red': '253',
 	'green': '249',
 	'blue': '205',
-	'hex': '#FDF9CD',
-	'row': 'row 14-05'
+	'hex': '#FDF9CD'
 },
 { 
 	'dmcID': '727', 
@@ -2907,8 +2585,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '241',
 	'blue': '175',
-	'hex': '#FFF1AF',
-	'row': 'row 14-06'
+	'hex': '#FFF1AF'
 },
 { 
 	'dmcID': '726', 
@@ -2916,8 +2593,7 @@ var dmcHexResource = [{
 	'red': '253',
 	'green': '215',
 	'blue': '85',
-	'hex': '#FDD755',
-	'row': 'row 14-07'
+	'hex': '#FDD755'
 },
 { 
 	'dmcID': '725', 
@@ -2925,8 +2601,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '200',
 	'blue': '64',
-	'hex': '#FFC840',
-	'row': 'row 14-08'
+	'hex': '#FFC840'
 },
 { 
 	'dmcID': '972', 
@@ -2934,8 +2609,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '181',
 	'blue': '21',
-	'hex': '#FFB515',
-	'row': 'row 14-09'
+	'hex': '#FFB515'
 },
 { 
 	'dmcID': '745', 
@@ -2943,8 +2617,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '233',
 	'blue': '173',
-	'hex': '#FFE9AD',
-	'row': 'row 14-10'
+	'hex': '#FFE9AD'
 },
 { 
 	'dmcID': '744', 
@@ -2952,8 +2625,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '231',
 	'blue': '147',
-	'hex': '#FFE793',
-	'row': 'row 14-11'
+	'hex': '#FFE793'
 },
 { 
 	'dmcID': '743', 
@@ -2961,8 +2633,7 @@ var dmcHexResource = [{
 	'red': '254',
 	'green': '211',
 	'blue': '118',
-	'hex': '#FED376',
-	'row': 'row 14-12'
+	'hex': '#FED376'
 },
 { 
 	'dmcID': '742', 
@@ -2970,8 +2641,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '191',
 	'blue': '87',
-	'hex': '#FFBF57',
-	'row': 'row 14-13'
+	'hex': '#FFBF57'
 },
 { 
 	'dmcID': '741', 
@@ -2979,8 +2649,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '163',
 	'blue': '43',
-	'hex': '#FFA32B',
-	'row': 'row 14-14'
+	'hex': '#FFA32B'
 },
 { 
 	'dmcID': '740', 
@@ -2988,8 +2657,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '139',
 	'blue': '0',
-	'hex': '#FF8B00',
-	'row': 'row 14-15'
+	'hex': '#FF8B00'
 },
 { 
 	'dmcID': '970', 
@@ -2997,8 +2665,7 @@ var dmcHexResource = [{
 	'red': '247',
 	'green': '139',
 	'blue': '19',
-	'hex': '#F78B13',
-	'row': 'row 14-16'
+	'hex': '#F78B13'
 },
 { 
 	'dmcID': '971', 
@@ -3006,8 +2673,7 @@ var dmcHexResource = [{
 	'red': '246',
 	'green': '127',
 	'blue': '0',
-	'hex': '#F67F00',
-	'row': 'row 14-17'
+	'hex': '#F67F00'
 },
 { 
 	'dmcID': '947', 
@@ -3015,8 +2681,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '123',
 	'blue': '77',
-	'hex': '#FF7B4D',
-	'row': 'row 14-18'
+	'hex': '#FF7B4D'
 },
 { 
 	'dmcID': '946', 
@@ -3024,8 +2689,7 @@ var dmcHexResource = [{
 	'red': '235',
 	'green': '99',
 	'blue': '7',
-	'hex': '#EB6307',
-	'row': 'row 14-19'
+	'hex': '#EB6307'
 },
 { 
 	'dmcID': '900', 
@@ -3033,8 +2697,7 @@ var dmcHexResource = [{
 	'red': '209',
 	'green': '88',
 	'blue': '7',
-	'hex': '#D15807',
-	'row': 'row 14-20'
+	'hex': '#D15807'
 },
 { 
 	'dmcID': '967', 
@@ -3042,8 +2705,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '222',
 	'blue': '213',
-	'hex': '#FFDED5',
-	'row': 'row 14-21'
+	'hex': '#FFDED5'
 },
 { 
 	'dmcID': '3824', 
@@ -3051,8 +2713,7 @@ var dmcHexResource = [{
 	'red': '254',
 	'green': '205',
 	'blue': '194',
-	'hex': '#FECDC2',
-	'row': 'row 14-22'
+	'hex': '#FECDC2'
 },
 { 
 	'dmcID': '3341', 
@@ -3060,8 +2721,7 @@ var dmcHexResource = [{
 	'red': '252',
 	'green': '171',
 	'blue': '152',
-	'hex': '#FCAB98',
-	'row': 'row 14-23'
+	'hex': '#FCAB98'
 },
 { 
 	'dmcID': '3340', 
@@ -3069,8 +2729,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '131',
 	'blue': '111',
-	'hex': '#FF836F',
-	'row': 'row 14-24'
+	'hex': '#FF836F'
 },
 { 
 	'dmcID': '608', 
@@ -3078,8 +2737,7 @@ var dmcHexResource = [{
 	'red': '253',
 	'green': '93',
 	'blue': '53',
-	'hex': '#FD5D35',
-	'row': 'row 14-25'
+	'hex': '#FD5D35'
 },
 { 
 	'dmcID': '606', 
@@ -3087,8 +2745,7 @@ var dmcHexResource = [{
 	'red': '250',
 	'green': '50',
 	'blue': '3',
-	'hex': '#FA3203',
-	'row': 'row 14-26'
+	'hex': '#FA3203'
 },
 { 
 	'dmcID': '951', 
@@ -3096,8 +2753,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '226',
 	'blue': '207',
-	'hex': '#FFE2CF',
-	'row': 'row 15-01'
+	'hex': '#FFE2CF'
 },
 { 
 	'dmcID': '3856', 
@@ -3105,8 +2761,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '211',
 	'blue': '181',
-	'hex': '#FFD3B5',
-	'row': 'row 15-02'
+	'hex': '#FFD3B5'
 },
 { 
 	'dmcID': '722', 
@@ -3114,8 +2769,7 @@ var dmcHexResource = [{
 	'red': '247',
 	'green': '151',
 	'blue': '111',
-	'hex': '#F7976F',
-	'row': 'row 15-03'
+	'hex': '#F7976F'
 },
 { 
 	'dmcID': '721', 
@@ -3123,8 +2777,7 @@ var dmcHexResource = [{
 	'red': '242',
 	'green': '120',
 	'blue': '66',
-	'hex': '#F27842',
-	'row': 'row 15-04'
+	'hex': '#F27842'
 },
 { 
 	'dmcID': '720', 
@@ -3132,8 +2785,7 @@ var dmcHexResource = [{
 	'red': '229',
 	'green': '92',
 	'blue': '31',
-	'hex': '#E55C1F',
-	'row': 'row 15-05'
+	'hex': '#E55C1F'
 },
 { 
 	'dmcID': '3825', 
@@ -3141,8 +2793,7 @@ var dmcHexResource = [{
 	'red': '253',
 	'green': '189',
 	'blue': '150',
-	'hex': '#FDBD96',
-	'row': 'row 15-06'
+	'hex': '#FDBD96'
 },
 { 
 	'dmcID': '922', 
@@ -3150,8 +2801,7 @@ var dmcHexResource = [{
 	'red': '226',
 	'green': '115',
 	'blue': '35',
-	'hex': '#E27323',
-	'row': 'row 15-07'
+	'hex': '#E27323'
 },
 { 
 	'dmcID': '921', 
@@ -3159,8 +2809,7 @@ var dmcHexResource = [{
 	'red': '198',
 	'green': '98',
 	'blue': '24',
-	'hex': '#C66218',
-	'row': 'row 15-08'
+	'hex': '#C66218'
 },
 { 
 	'dmcID': '920', 
@@ -3168,8 +2817,7 @@ var dmcHexResource = [{
 	'red': '172',
 	'green': '84',
 	'blue': '20',
-	'hex': '#AC5414',
-	'row': 'row 15-09'
+	'hex': '#AC5414'
 },
 { 
 	'dmcID': '919', 
@@ -3177,8 +2825,7 @@ var dmcHexResource = [{
 	'red': '166',
 	'green': '69',
 	'blue': '16',
-	'hex': '#A64510',
-	'row': 'row 15-10'
+	'hex': '#A64510'
 },
 { 
 	'dmcID': '918', 
@@ -3186,8 +2833,7 @@ var dmcHexResource = [{
 	'red': '130',
 	'green': '52',
 	'blue': '10',
-	'hex': '#82340A',
-	'row': 'row 15-11'
+	'hex': '#82340A'
 },
 { 
 	'dmcID': '3770', 
@@ -3195,8 +2841,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '238',
 	'blue': '227',
-	'hex': '#FFEEE3',
-	'row': 'row 15-12'
+	'hex': '#FFEEE3'
 },
 { 
 	'dmcID': '945', 
@@ -3204,8 +2849,7 @@ var dmcHexResource = [{
 	'red': '251',
 	'green': '213',
 	'blue': '187',
-	'hex': '#FBD5BB',
-	'row': 'row 15-13'
+	'hex': '#FBD5BB'
 },
 { 
 	'dmcID': '402', 
@@ -3213,8 +2857,7 @@ var dmcHexResource = [{
 	'red': '247',
 	'green': '167',
 	'blue': '119',
-	'hex': '#F7A777',
-	'row': 'row 15-14'
+	'hex': '#F7A777'
 },
 { 
 	'dmcID': '3776', 
@@ -3222,8 +2865,7 @@ var dmcHexResource = [{
 	'red': '207',
 	'green': '121',
 	'blue': '57',
-	'hex': '#CF7939',
-	'row': 'row 15-15'
+	'hex': '#CF7939'
 },
 { 
 	'dmcID': '301', 
@@ -3231,8 +2873,7 @@ var dmcHexResource = [{
 	'red': '179',
 	'green': '95',
 	'blue': '43',
-	'hex': '#B35F2B',
-	'row': 'row 15-16'
+	'hex': '#B35F2B'
 },
 { 
 	'dmcID': '400', 
@@ -3240,8 +2881,7 @@ var dmcHexResource = [{
 	'red': '143',
 	'green': '67',
 	'blue': '15',
-	'hex': '#8F430F',
-	'row': 'row 15-17'
+	'hex': '#8F430F'
 },
 { 
 	'dmcID': '300', 
@@ -3249,8 +2889,7 @@ var dmcHexResource = [{
 	'red': '111',
 	'green': '47',
 	'blue': '0',
-	'hex': '#6F2F00',
-	'row': 'row 15-18'
+	'hex': '#6F2F00'
 },
 { 
 	'dmcID': '3823', 
@@ -3258,8 +2897,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '253',
 	'blue': '227',
-	'hex': '#FFFDE3',
-	'row': 'row 15-19'
+	'hex': '#FFFDE3'
 },
 { 
 	'dmcID': '3855', 
@@ -3267,8 +2905,7 @@ var dmcHexResource = [{
 	'red': '250',
 	'green': '211',
 	'blue': '150',
-	'hex': '#FAD396',
-	'row': 'row 15-20'
+	'hex': '#FAD396'
 },
 { 
 	'dmcID': '3854', 
@@ -3276,8 +2913,7 @@ var dmcHexResource = [{
 	'red': '242',
 	'green': '175',
 	'blue': '104',
-	'hex': '#F2AF68',
-	'row': 'row 15-21'
+	'hex': '#F2AF68'
 },
 { 
 	'dmcID': '3853', 
@@ -3285,8 +2921,7 @@ var dmcHexResource = [{
 	'red': '242',
 	'green': '151',
 	'blue': '70',
-	'hex': '#F29746',
-	'row': 'row 15-22'
+	'hex': '#F29746'
 },
 { 
 	'dmcID': '3827', 
@@ -3294,8 +2929,7 @@ var dmcHexResource = [{
 	'red': '247',
 	'green': '187',
 	'blue': '119',
-	'hex': '#F7BB77',
-	'row': 'row 16-01'
+	'hex': '#F7BB77'
 },
 { 
 	'dmcID': '977', 
@@ -3303,8 +2937,7 @@ var dmcHexResource = [{
 	'red': '220',
 	'green': '156',
 	'blue': '86',
-	'hex': '#DC9C56',
-	'row': 'row 16-02'
+	'hex': '#DC9C56'
 },
 { 
 	'dmcID': '976', 
@@ -3312,8 +2945,7 @@ var dmcHexResource = [{
 	'red': '194',
 	'green': '129',
 	'blue': '66',
-	'hex': '#C28142',
-	'row': 'row 16-03'
+	'hex': '#C28142'
 },
 { 
 	'dmcID': '3826', 
@@ -3321,8 +2953,7 @@ var dmcHexResource = [{
 	'red': '173',
 	'green': '114',
 	'blue': '57',
-	'hex': '#AD7239',
-	'row': 'row 16-04'
+	'hex': '#AD7239'
 },
 { 
 	'dmcID': '975', 
@@ -3330,8 +2961,7 @@ var dmcHexResource = [{
 	'red': '145',
 	'green': '79',
 	'blue': '18',
-	'hex': '#914F12',
-	'row': 'row 16-05'
+	'hex': '#914F12'
 },
 { 
 	'dmcID': '948', 
@@ -3339,8 +2969,7 @@ var dmcHexResource = [{
 	'red': '254',
 	'green': '231',
 	'blue': '218',
-	'hex': '#FEE7DA',
-	'row': 'row 16-06'
+	'hex': '#FEE7DA'
 },
 { 
 	'dmcID': '754', 
@@ -3348,8 +2977,7 @@ var dmcHexResource = [{
 	'red': '247',
 	'green': '203',
 	'blue': '191',
-	'hex': '#F7CBBF',
-	'row': 'row 16-07'
+	'hex': '#F7CBBF'
 },
 { 
 	'dmcID': '3771', 
@@ -3357,8 +2985,7 @@ var dmcHexResource = [{
 	'red': '244',
 	'green': '187',
 	'blue': '169',
-	'hex': '#F4BBA9',
-	'row': 'row 16-08'
+	'hex': '#F4BBA9'
 },
 { 
 	'dmcID': '758', 
@@ -3366,8 +2993,7 @@ var dmcHexResource = [{
 	'red': '238',
 	'green': '170',
 	'blue': '155',
-	'hex': '#EEAA9B',
-	'row': 'row 16-09'
+	'hex': '#EEAA9B'
 },
 { 
 	'dmcID': '3778', 
@@ -3375,8 +3001,7 @@ var dmcHexResource = [{
 	'red': '217',
 	'green': '137',
 	'blue': '120',
-	'hex': '#D98978',
-	'row': 'row 16-10'
+	'hex': '#D98978'
 },
 { 
 	'dmcID': '356', 
@@ -3384,8 +3009,7 @@ var dmcHexResource = [{
 	'red': '197',
 	'green': '106',
 	'blue': '91',
-	'hex': '#C56A5B',
-	'row': 'row 16-11'
+	'hex': '#C56A5B'
 },
 { 
 	'dmcID': '3830', 
@@ -3393,8 +3017,7 @@ var dmcHexResource = [{
 	'red': '185',
 	'green': '85',
 	'blue': '68',
-	'hex': '#BC5544',
-	'row': 'row 16-12'
+	'hex': '#BC5544'
 },
 { 
 	'dmcID': '355', 
@@ -3402,8 +3025,7 @@ var dmcHexResource = [{
 	'red': '152',
 	'green': '68',
 	'blue': '54',
-	'hex': '#984436',
-	'row': 'row 16-13'
+	'hex': '#984436'
 },
 { 
 	'dmcID': '3777', 
@@ -3411,8 +3033,7 @@ var dmcHexResource = [{
 	'red': '134',
 	'green': '48',
 	'blue': '34',
-	'hex': '#863022',
-	'row': 'row 16-14'
+	'hex': '#863022'
 },
 { 
 	'dmcID': '3779', 
@@ -3420,8 +3041,7 @@ var dmcHexResource = [{
 	'red': '248',
 	'green': '202',
 	'blue': '200',
-	'hex': '#F8CAC8',
-	'row': 'row 16-15'
+	'hex': '#F8CAC8'
 },
 { 
 	'dmcID': '3859', 
@@ -3429,8 +3049,7 @@ var dmcHexResource = [{
 	'red': '186',
 	'green': '139',
 	'blue': '124',
-	'hex': '#BA8B7C',
-	'row': 'row 16-16'
+	'hex': '#BA8B7C'
 },
 { 
 	'dmcID': '3858', 
@@ -3438,8 +3057,7 @@ var dmcHexResource = [{
 	'red': '150',
 	'green': '74',
 	'blue': '63',
-	'hex': '#964A3F',
-	'row': 'row 16-17'
+	'hex': '#964A3F'
 },
 { 
 	'dmcID': '3857', 
@@ -3447,8 +3065,7 @@ var dmcHexResource = [{
 	'red': '104',
 	'green': '37',
 	'blue': '26',
-	'hex': '#68251A',
-	'row': 'row 16-18'
+	'hex': '#68251A'
 },
 { 
 	'dmcID': '3774', 
@@ -3456,8 +3073,7 @@ var dmcHexResource = [{
 	'red': '243',
 	'green': '225',
 	'blue': '215',
-	'hex': '#F3E1D7',
-	'row': 'row 16-19'
+	'hex': '#F3E1D7'
 },
 { 
 	'dmcID': '950', 
@@ -3465,8 +3081,7 @@ var dmcHexResource = [{
 	'red': '238',
 	'green': '211',
 	'blue': '196',
-	'hex': '#EED3C4',
-	'row': 'row 16-20'
+	'hex': '#EED3C4'
 },
 { 
 	'dmcID': '3064', 
@@ -3474,8 +3089,7 @@ var dmcHexResource = [{
 	'red': '196',
 	'green': '142',
 	'blue': '112',
-	'hex': '#C48E70',
-	'row': 'row 16-21'
+	'hex': '#C48E70'
 },
 { 
 	'dmcID': '407', 
@@ -3483,8 +3097,7 @@ var dmcHexResource = [{
 	'red': '187',
 	'green': '129',
 	'blue': '97',
-	'hex': '#BB8161',
-	'row': 'row 16-22'
+	'hex': '#BB8161'
 },
 { 
 	'dmcID': '3773', 
@@ -3492,8 +3105,7 @@ var dmcHexResource = [{
 	'red': '182',
 	'green': '117',
 	'blue': '82',
-	'hex': '#B67552',
-	'row': 'row 16-23'
+	'hex': '#B67552'
 },
 { 
 	'dmcID': '3772', 
@@ -3501,8 +3113,7 @@ var dmcHexResource = [{
 	'red': '160',
 	'green': '108',
 	'blue': '80',
-	'hex': '#A06C50',
-	'row': 'row 16-24'
+	'hex': '#A06C50'
 },
 { 
 	'dmcID': '632', 
@@ -3510,8 +3121,7 @@ var dmcHexResource = [{
 	'red': '135',
 	'green': '85',
 	'blue': '57',
-	'hex': '#875539',
-	'row': 'row 16-25'
+	'hex': '#875539'
 },
 { 
 	'dmcID': '453', 
@@ -3519,8 +3129,7 @@ var dmcHexResource = [{
 	'red': '215',
 	'green': '206',
 	'blue': '203',
-	'hex': '#D7CECB',
-	'row': 'row 17-01'
+	'hex': '#D7CECB'
 },
 { 
 	'dmcID': '452', 
@@ -3528,8 +3137,7 @@ var dmcHexResource = [{
 	'red': '192',
 	'green': '179',
 	'blue': '174',
-	'hex': '#C0B3AE',
-	'row': 'row 17-02'
+	'hex': '#C0B3AE'
 },
 { 
 	'dmcID': '451', 
@@ -3537,8 +3145,7 @@ var dmcHexResource = [{
 	'red': '145',
 	'green': '123',
 	'blue': '115',
-	'hex': '#917B73',
-	'row': 'row 17-03'
+	'hex': '#917B73'
 },
 { 
 	'dmcID': '3861', 
@@ -3546,8 +3153,7 @@ var dmcHexResource = [{
 	'red': '166',
 	'green': '136',
 	'blue': '129',
-	'hex': '#A68881',
-	'row': 'row 17-04'
+	'hex': '#A68881'
 },
 { 
 	'dmcID': '3860', 
@@ -3555,8 +3161,7 @@ var dmcHexResource = [{
 	'red': '125',
 	'green': '93',
 	'blue': '87',
-	'hex': '#7D5D57',
-	'row': 'row 17-05'
+	'hex': '#7D5D57'
 },
 { 
 	'dmcID': '779', 
@@ -3564,8 +3169,7 @@ var dmcHexResource = [{
 	'red': '98',
 	'green': '75',
 	'blue': '69',
-	'hex': '#624B45',
-	'row': 'row 17-06'
+	'hex': '#624B45'
 },
 { 
 	'dmcID': '712', 
@@ -3573,8 +3177,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '251',
 	'blue': '239',
-	'hex': '#FFFBEF',
-	'row': 'row 17-07'
+	'hex': '#FFFBEF'
 },
 { 
 	'dmcID': '739', 
@@ -3582,8 +3185,7 @@ var dmcHexResource = [{
 	'red': '248',
 	'green': '228',
 	'blue': '200',
-	'hex': '#F8E4C8',
-	'row': 'row 17-08'
+	'hex': '#F8E4C8'
 },
 { 
 	'dmcID': '738', 
@@ -3591,8 +3193,7 @@ var dmcHexResource = [{
 	'red': '236',
 	'green': '204',
 	'blue': '158',
-	'hex': '#ECCC9E',
-	'row': 'row 17-09'
+	'hex': '#ECCC9E'
 },
 { 
 	'dmcID': '437', 
@@ -3600,8 +3201,7 @@ var dmcHexResource = [{
 	'red': '228',
 	'green': '187',
 	'blue': '142',
-	'hex': '#E4BB8E',
-	'row': 'row 17-10'
+	'hex': '#E4BB8E'
 },
 { 
 	'dmcID': '436', 
@@ -3609,8 +3209,7 @@ var dmcHexResource = [{
 	'red': '203',
 	'green': '144',
 	'blue': '81',
-	'hex': '#CB9051',
-	'row': 'row 17-11'
+	'hex': '#CB9051'
 },
 { 
 	'dmcID': '435', 
@@ -3618,8 +3217,7 @@ var dmcHexResource = [{
 	'red': '184',
 	'green': '119',
 	'blue': '72',
-	'hex': '#B87748',
-	'row': 'row 17-12'
+	'hex': '#B87748'
 },
 { 
 	'dmcID': '434', 
@@ -3627,8 +3225,7 @@ var dmcHexResource = [{
 	'red': '152',
 	'green': '94',
 	'blue': '51',
-	'hex': '#985E35'.
-	'row': 'row 17-13'
+	'hex': '#985E35'
 },
 { 
 	'dmcID': '433', 
@@ -3636,8 +3233,7 @@ var dmcHexResource = [{
 	'red': '122',
 	'green': '69',
 	'blue': '31',
-	'hex': '#7A451F',
-	'row': 'row 17-14'
+	'hex': '#7A451F'
 },
 { 
 	'dmcID': '801', 
@@ -3645,8 +3241,7 @@ var dmcHexResource = [{
 	'red': '101',
 	'green': '57',
 	'blue': '25',
-	'hex': '#653919',
-	'row': 'row 17-15'
+	'hex': '#653919'
 },
 { 
 	'dmcID': '898', 
@@ -3654,8 +3249,7 @@ var dmcHexResource = [{
 	'red': '73',
 	'green': '42',
 	'blue': '19',
-	'hex': '#492A13',
-	'row': 'row 17-16'
+	'hex': '#492A13'
 },
 { 
 	'dmcID': '938', 
@@ -3663,8 +3257,7 @@ var dmcHexResource = [{
 	'red': '54',
 	'green': '31',
 	'blue': '14',
-	'hex': '#361F0E',
-	'row': 'row 17-17'
+	'hex': '#361F0E'
 },
 { 
 	'dmcID': '3371', 
@@ -3672,8 +3265,7 @@ var dmcHexResource = [{
 	'red': '30',
 	'green': '17',
 	'blue': '8',
-	'hex': '#1E1108',
-	'row': 'row 17-18'
+	'hex': '#1E1108'
 },
 { 
 	'dmcID': '543', 
@@ -3681,8 +3273,7 @@ var dmcHexResource = [{
 	'red': '242',
 	'green': '227',
 	'blue': '206',
-	'hex': '#F2E3CE',
-	'row': 'row 17-18'
+	'hex': '#F2E3CE'
 },
 { 
 	'dmcID': '3864', 
@@ -3690,8 +3281,7 @@ var dmcHexResource = [{
 	'red': '203',
 	'green': '182',
 	'blue': '156',
-	'hex': '#CBB69C',
-	'row': 'row 17-20'
+	'hex': '#CBB69C'
 },
 { 
 	'dmcID': '3863', 
@@ -3699,8 +3289,7 @@ var dmcHexResource = [{
 	'red': '164',
 	'green': '131',
 	'blue': '92',
-	'hex': '#A4835C',
-	'row': 'row 17-21'
+	'hex': '#A4835C'
 },
 { 
 	'dmcID': '3862', 
@@ -3708,8 +3297,7 @@ var dmcHexResource = [{
 	'red': '138',
 	'green': '110',
 	'blue': '78',
-	'hex': '#8A6E4E',
-	'row': 'row 17-22'
+	'hex': '#8A6E4E'
 },
 { 
 	'dmcID': '3031', 
@@ -3717,8 +3305,7 @@ var dmcHexResource = [{
 	'red': '75',
 	'green': '60',
 	'blue': '42',
-	'hex': '#4B3C2A',
-	'row': 'row 17-23'
+	'hex': '#4B3C2A'
 },
 { 
 	'dmcID': 'B5200', 
@@ -3726,8 +3313,7 @@ var dmcHexResource = [{
 	'red': '255',
 	'green': '255',
 	'blue': '255',
-	'hex': '#FFFFFF',
-	'row': 'row 18-01'
+	'hex': '#FFFFFF'
 },
 { 
 	'dmcID': 'White', 
@@ -3735,8 +3321,7 @@ var dmcHexResource = [{
 	'red': '252',
 	'green': '251',
 	'blue': '248',
-	'hex': '#FCFBF8',
-	'row': 'row 18-02'
+	'hex': '#FCFBF8'
 },
 { 
 	'dmcID': '3865', 
@@ -3744,8 +3329,7 @@ var dmcHexResource = [{
 	'red': '249',
 	'green': '247',
 	'blue': '241',
-	'hex': '#F9F7F1',
-	'row': 'row 18-03'
+	'hex': '#F9F7F1'
 },
 { 
 	'dmcID': 'Ecru', 
@@ -3753,8 +3337,7 @@ var dmcHexResource = [{
 	'red': '240',
 	'green': '234',
 	'blue': '218',
-	'hex': '#F0EADA',
-	'row': 'row 18-04'
+	'hex': '#F0EADA'
 },
 { 
 	'dmcID': '822', 
@@ -3762,8 +3345,7 @@ var dmcHexResource = [{
 	'red': '231',
 	'green': '226',
 	'blue': '211',
-	'hex': '#E7E2D3',
-	'row': 'row 18-05'
+	'hex': '#E7E2D3'
 },
 { 
 	'dmcID': '644', 
@@ -3771,8 +3353,7 @@ var dmcHexResource = [{
 	'red': '221',
 	'green': '216',
 	'blue': '203',
-	'hex': '#DDD8CB',
-	'row': 'row 18-06'
+	'hex': '#DDD8CB'
 },
 { 
 	'dmcID': '642', 
@@ -3780,8 +3361,7 @@ var dmcHexResource = [{
 	'red': '164',
 	'green': '152',
 	'blue': '120',
-	'hex': '#A49878',
-	'row': 'row 18-07'
+	'hex': '#A49878'
 },
 { 
 	'dmcID': '640', 
@@ -3789,8 +3369,7 @@ var dmcHexResource = [{
 	'red': '133',
 	'green': '123',
 	'blue': '97',
-	'hex': '#857B61',
-	'row': 'row 18-08'
+	'hex': '#857B61'
 },
 { 
 	'dmcID': '3787', 
@@ -3798,8 +3377,7 @@ var dmcHexResource = [{
 	'red': '98',
 	'green': '93',
 	'blue': '80',
-	'hex': '#625D50',
-	'row': 'row 18-09'
+	'hex': '#625D50'
 },
 { 
 	'dmcID': '3021', 
@@ -3807,8 +3385,7 @@ var dmcHexResource = [{
 	'red': '79',
 	'green': '75',
 	'blue': '65',
-	'hex': '#4F4B41',
-	'row': 'row 18-10'
+	'hex': '#4F4B41'
 },
 { 
 	'dmcID': '3024', 
@@ -3816,8 +3393,7 @@ var dmcHexResource = [{
 	'red': '235',
 	'green': '234',
 	'blue': '231',
-	'hex': '#EBEAE7',
-	'row': 'row 18-11'
+	'hex': '#EBEAE7'
 },
 { 
 	'dmcID': '3023', 
@@ -3825,8 +3401,7 @@ var dmcHexResource = [{
 	'red': '177',
 	'green': '170',
 	'blue': '151',
-	'hex': '#B1AA97',
-	'row': 'row 18-12'
+	'hex': '#B1AA97'
 },
 { 
 	'dmcID': '3022', 
@@ -3834,8 +3409,7 @@ var dmcHexResource = [{
 	'red': '142',
 	'green': '144',
 	'blue': '120',
-	'hex': '#8E9078',
-	'row': 'row 18-13'
+	'hex': '#8E9078'
 },
 { 
 	'dmcID': '535', 
@@ -3843,8 +3417,7 @@ var dmcHexResource = [{
 	'red': '99',
 	'green': '100',
 	'blue': '88',
-	'hex': '#636458',
-	'row': 'row 18-14'
+	'hex': '#636458'
 },
 { 
 	'dmcID': '3033', 
@@ -3852,8 +3425,7 @@ var dmcHexResource = [{
 	'red': '227',
 	'green': '216',
 	'blue': '204',
-	'hex': '#E3D8CC',
-	'row': 'row 18-15'
+	'hex': '#E3D8CC'
 },
 { 
 	'dmcID': '3782', 
@@ -3861,8 +3433,7 @@ var dmcHexResource = [{
 	'red': '210',
 	'green': '188',
 	'blue': '166',
-	'hex': '#D2BCA6',
-	'row': 'row 18-16'
+	'hex': '#D2BCA6'
 },
 { 
 	'dmcID': '3032', 
@@ -3870,8 +3441,7 @@ var dmcHexResource = [{
 	'red': '179',
 	'green': '159',
 	'blue': '139',
-	'hex': '#B39F8B',
-	'row': 'row 18-17'
+	'hex': '#B39F8B'
 },
 { 
 	'dmcID': '3790', 
@@ -3879,8 +3449,7 @@ var dmcHexResource = [{
 	'red': '127',
 	'green': '106',
 	'blue': '85',
-	'hex': '#7F6A55',
-	'row': 'row 18-18'
+	'hex': '#7F6A55'
 },
 { 
 	'dmcID': '3781', 
@@ -3888,8 +3457,7 @@ var dmcHexResource = [{
 	'red': '107',
 	'green': '87',
 	'blue': '67',
-	'hex': '#6B5743',
-	'row': 'row 18-19'
+	'hex': '#6B5743'
 },
 { 
 	'dmcID': '3866', 
@@ -3897,8 +3465,7 @@ var dmcHexResource = [{
 	'red': '250',
 	'green': '246',
 	'blue': '240',
-	'hex': '#FAF6F0',
-	'row': 'row 18-20'
+	'hex': '#FAF6F0'
 },
 { 
 	'dmcID': '842', 
@@ -3906,8 +3473,7 @@ var dmcHexResource = [{
 	'red': '209',
 	'green': '186',
 	'blue': '161',
-	'hex': '#D1BAA1',
-	'row': 'row 18-21'
+	'hex': '#D1BAA1'
 },
 { 
 	'dmcID': '841', 
@@ -3915,8 +3481,7 @@ var dmcHexResource = [{
 	'red': '182',
 	'green': '155',
 	'blue': '126',
-	'hex': '#B69B7E',
-	'row': 'row 18-22'
+	'hex': '#B69B7E'
 },
 { 
 	'dmcID': '840', 
@@ -3924,8 +3489,7 @@ var dmcHexResource = [{
 	'red': '154',
 	'green': '124',
 	'blue': '92',
-	'hex': '#9A7C5C',
-	'row': 'row 18-23'
+	'hex': '#9A7C5C'
 },
 { 
 	'dmcID': '839', 
@@ -3933,8 +3497,7 @@ var dmcHexResource = [{
 	'red': '103',
 	'green': '85',
 	'blue': '65',
-	'hex': '#675541',
-	'row': 'row 18-24'
+	'hex': '#675541'
 },
 { 
 	'dmcID': '838', 
@@ -3942,8 +3505,7 @@ var dmcHexResource = [{
 	'red': '89',
 	'green': '73',
 	'blue': '55',
-	'hex': '#594937',
-	'row': 'row 18-25'
+	'hex': '#594937'
 },
 { 
 	'dmcID': '3072', 
@@ -3951,8 +3513,7 @@ var dmcHexResource = [{
 	'red': '230',
 	'green': '232',
 	'blue': '232',
-	'hex': '#E6E8E8',
-	'row': 'row 19-01'
+	'hex': '#E6E8E8'
 },
 { 
 	'dmcID': '648', 
@@ -3960,8 +3521,7 @@ var dmcHexResource = [{
 	'red': '188',
 	'green': '180',
 	'blue': '172',
-	'hex': '#BCB4AC',
-	'row': 'row 19-02'
+	'hex': '#BCB4AC'
 },
 { 
 	'dmcID': '647', 
@@ -3969,8 +3529,7 @@ var dmcHexResource = [{
 	'red': '176',
 	'green': '166',
 	'blue': '156',
-	'hex': '#B0A69C',
-	'row': 'row 19-03'
+	'hex': '#B0A69C'
 },
 { 
 	'dmcID': '646', 
@@ -3978,8 +3537,7 @@ var dmcHexResource = [{
 	'red': '135',
 	'green': '125',
 	'blue': '115',
-	'hex': '#877D73',
-	'row': 'row 19-04'
+	'hex': '#877D73'
 },
 { 
 	'dmcID': '645', 
@@ -3987,8 +3545,7 @@ var dmcHexResource = [{
 	'red': '110',
 	'green': '101',
 	'blue': '92',
-	'hex': '#6E655C',
-	'row': 'row 19-05'
+	'hex': '#6E655C'
 },
 { 
 	'dmcID': '844', 
@@ -3996,8 +3553,7 @@ var dmcHexResource = [{
 	'red': '72',
 	'green': '72',
 	'blue': '72',
-	'hex': '#484848',
-	'row': 'row 19-06'
+	'hex': '#484848'
 },
 { 
 	'dmcID': '762', 
@@ -4005,8 +3561,7 @@ var dmcHexResource = [{
 	'red': '236',
 	'green': '236',
 	'blue': '236',
-	'hex': '#ECECEC',
-	'row': 'row 19-07'
+	'hex': '#ECECEC'
 },
 { 
 	'dmcID': '415', 
@@ -4014,8 +3569,7 @@ var dmcHexResource = [{
 	'red': '211',
 	'green': '211',
 	'blue': '214',
-	'hex': '#D3D3D6',
-	'row': 'row 19-08'
+	'hex': '#D3D3D6'
 },
 { 
 	'dmcID': '318', 
@@ -4023,8 +3577,7 @@ var dmcHexResource = [{
 	'red': '171',
 	'green': '171',
 	'blue': '171',
-	'hex': '#ABABAB',
-	'row': 'row 19-09'
+	'hex': '#ABABAB'
 },
 { 
 	'dmcID': '414', 
@@ -4032,8 +3585,7 @@ var dmcHexResource = [{
 	'red': '140',
 	'green': '140',
 	'blue': '140',
-	'hex': '#8C8C8C',
-	'row': 'row 19-10'
+	'hex': '#8C8C8C'
 },
 { 
 	'dmcID': '168', 
@@ -4041,8 +3593,7 @@ var dmcHexResource = [{
 	'red': '209',
 	'green': '209',
 	'blue': '209',
-	'hex': '#D1D1D1',
-	'row': 'row 19-11'
+	'hex': '#D1D1D1'
 },
 { 
 	'dmcID': '169', 
@@ -4050,8 +3601,7 @@ var dmcHexResource = [{
 	'red': '132',
 	'green': '132',
 	'blue': '132',
-	'hex': '#848484',
-	'row': 'row 19-12'
+	'hex': '#848484'
 },
 { 
 	'dmcID': '317', 
@@ -4059,8 +3609,7 @@ var dmcHexResource = [{
 	'red': '108',
 	'green': '108',
 	'blue': '108',
-	'hex': '#6C6C6C',
-	'row': 'row 19-13'
+	'hex': '#6C6C6C'
 },
 { 
 	'dmcID': '413', 
@@ -4068,8 +3617,7 @@ var dmcHexResource = [{
 	'red': '86',
 	'green': '86',
 	'blue': '86',
-	'hex': '#565656',
-	'row': 'row 19-14'
+	'hex': '#565656'
 },
 { 
 	'dmcID': '3799', 
@@ -4077,8 +3625,7 @@ var dmcHexResource = [{
 	'red': '66',
 	'green': '66',
 	'blue': '66',
-	'hex': '#424242',
-	'row': 'row 19-15'
+	'hex': '#424242'
 },
 { 
 	'dmcID': '310', 
@@ -4086,6 +3633,5 @@ var dmcHexResource = [{
 	'red': '0',
 	'green': '0',
 	'blue': '0',
-	'hex': '#0',
-	'row': 'row 19-16'
+	'hex': '#000'
 }]
