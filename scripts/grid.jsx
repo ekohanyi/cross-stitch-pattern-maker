@@ -25,7 +25,7 @@ export default class Grid extends React.Component {
 			var row = [];
 
 			for(var j = 0; j < gridSize; j++){
-				row.push(<GridSquare key={'row_' + i + '_cell_' + j}/>);
+				row.push(<GridSquare key={'row_' + i + '_cell_' + j} selectedColor={this.props.color} />);
 			}
 			gridRows.push(<GridRow key={'row_' + i} children={row} />)
 		}
@@ -48,23 +48,29 @@ class GridSquare extends React.Component {
 		super(props);
 
 		this.state = {
-			color: '#fff'
+			color: '#fff',
+			selectedColor: '' 
 		}
 
 		this.onCellClick = this.onCellClick.bind(this);
 	}
 
-	onCellClick() {
-		let { color } = this.state;
+	componentWillReceiveProps(nextProps) {
+		if(nextProps.selectedColor !== this.props.selectedColor)
+			this.setState({ selectedColor: nextProps.selectedColor })
+	}
 
-		this.setState({ color: (color === '#fff' ? '#000' : '#fff') });
+	onCellClick() {
+		let { color, selectedColor } = this.state;
+
+		this.setState({ color: (color === '#fff' ? selectedColor : '#fff') });
 	}
 
 	render() {
 		return (
 			<div 
 				className="cell" 
-				style={{backgroundColor: this.state.color}}
+				style={{backgroundColor: (this.state.color ? this.state.color : '#fff')}}
 				onClick={() => this.onCellClick()}
 			>
 			</div>);

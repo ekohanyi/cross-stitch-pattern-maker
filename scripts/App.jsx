@@ -1,5 +1,6 @@
 import React from 'react';
 import Grid from './grid.jsx';
+import ColorPicker from './colorpicker.jsx'
 
 export default class App extends React.Component {
 	constructor(props) {
@@ -7,10 +8,12 @@ export default class App extends React.Component {
 
 		this.state = {
 			size: 10,
-			error: ''
+			error: '',
+			selectedColor: "#fff"
 		}
 
 		this.inputChanged = this.inputChanged.bind(this);
+		this.colorChanged = this.colorChanged.bind(this);
 	}
 
 	inputChanged() {
@@ -20,6 +23,10 @@ export default class App extends React.Component {
 		else {
 			this.setState({ size: this.gridSizeInput.value, error: "" });
 		}
+	}
+
+	colorChanged(color) {
+		this.setState({ selectedColor: color })
 	}
 
 	render() {
@@ -32,7 +39,8 @@ export default class App extends React.Component {
 					disabled
 				/>
 				{this.state.error ? <div className="error">{this.state.error}</div> : ''}
-				<Grid size={this.state.size} />
+				<ColorPicker onColorChange={(color) => this.colorChanged(color)} />
+				<Grid size={this.state.size} color={this.state.selectedColor}/>
 			</div>);
 	}
 }
