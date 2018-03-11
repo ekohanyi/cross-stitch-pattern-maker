@@ -33,13 +33,14 @@ export default class App extends React.Component {
 		return (
 			<div style={{textAlign: 'center'}}>
 				<input 
+					className='size-input'
 					onChange={() => this.inputChanged()} 
 					ref={input => { this.gridSizeInput = input }}
 					value={this.state.size}
 					disabled
 				/>
 				{this.state.error ? <div className="error">{this.state.error}</div> : ''}
-				<ColorPicker onColorChange={(color) => this.colorChanged(color)} />
+				<ColorPicker onColorChange={(color) => this.colorChanged(color)} currentColor={this.state.selectedColor}/>
 				<Grid size={this.state.size} color={this.state.selectedColor}/>
 			</div>);
 	}

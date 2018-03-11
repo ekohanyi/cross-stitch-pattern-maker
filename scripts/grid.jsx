@@ -55,6 +55,13 @@ class GridSquare extends React.Component {
 		this.onCellClick = this.onCellClick.bind(this);
 	}
 
+	shouldComponentUpdate(nextProps, nextState) {
+		if(nextState.color === this.state.color)
+			return false;
+		else
+			return true;
+	}
+
 	componentWillReceiveProps(nextProps) {
 		if(nextProps.selectedColor !== this.props.selectedColor)
 			this.setState({ selectedColor: nextProps.selectedColor })

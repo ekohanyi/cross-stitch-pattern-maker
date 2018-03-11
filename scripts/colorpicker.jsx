@@ -5,13 +5,22 @@ export default class ColorPicker extends React.Component {
     constructor(props) {
         super(props);
 
+        this.state = {
+            showColorPicker: false
+        }
+
         this.getColorOptions = this.getColorOptions.bind(this);
         this.getColorChange = this.getColorChange.bind(this);
+        this.showHideColorPicker = this.showHideColorPicker.bind(this);
     }
 
     getColorChange(color) {
         if(this.props.onColorChange)
             this.props.onColorChange(color);
+    }
+
+    showHideColorPicker() {
+        this.setState({ showColorPicker: !this.state.showColorPicker })
     }
 
     getColorOptions() {
@@ -33,11 +42,24 @@ export default class ColorPicker extends React.Component {
 
     render() {
         var colors = this.getColorOptions();
-        return <div className='color-grid-container cf'>{colors}</div>;
+        var show = this.state.showColorPicker ? 'show' : 'hide';
+        
+        return (
+            <div className='colors'>
+                <div className='chosen-color' style={{ backgroundColor: this.props.currentColor }} onClick={() => this.showHideColorPicker()}></div>
+                <div className={'color-grid-container cf ' + show}>
+                    {colors}
+                </div>
+            </div>
+        );
     }
 }
 
 class Color extends React.Component {
+    shouldComponentUpdate(nextProps, nextState) {
+        return false;
+    }
+
     render() {
         return (
             <div 

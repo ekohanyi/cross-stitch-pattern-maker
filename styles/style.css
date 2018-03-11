@@ -67,11 +67,10 @@ body{
     padding: 5px;
 }
 .grid-container {
-    margin-left: 20px;
     width: fit-content;
     border: 1px solid;
-    float: left;
     display: inline-block;
+    margin-top: 15px;
 }
 
 .error {
@@ -85,6 +84,9 @@ input:disabled {
     opacity: 0.7;
 }
 
+input.size-input {
+    margin-bottom: 17px;
+}
 
 .color-option {
     text-align: left;
@@ -95,9 +97,22 @@ input:disabled {
     font-size: 8px;
 }
 
+.chosen-color {
+    height: 20px;
+    border: 1px solid;
+    width: 127px;
+    margin: 0 auto 15px;
+}
+
 .color-grid-container.cf {
-    max-width: 50%;
-    height: 700px;
-    overflow: scroll;
-    float: left;
+    overflow-y: scroll;
+    max-height: 250px;
+    transition-property: all;
+    transition-duration: .5s;
+    transition-timing-function: ease-in-out;
+}
+
+.color-grid-container.cf.hide {
+    max-height: 0;
+    overflow-y: hidden;
 }
