@@ -1,4 +1,5 @@
 import React from 'react';
+// import GridSquare from './grid-square';
 
 export default class Grid extends React.Component {
 	constructor(props) {
