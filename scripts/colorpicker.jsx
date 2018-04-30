@@ -31,6 +31,8 @@ export default class ColorPicker extends React.Component {
                 <Color 
                     key={"color_" + index}
                     description={x.description} 
+                    hex={x.hex}
+                    dmcID={x.dmcID}
                     color={x.hex} 
                     handleColorChange={(color) => _this.getColorChange(x.hex)}
                 />
@@ -67,7 +69,9 @@ class Color extends React.Component {
                 style={{ backgroundColor: this.props.color }}
                 onClick={(color) => this.props.handleColorChange(this.props.color)}
             >
-                {this.props.description}
+                {this.props.description} <br/>
+                {this.props.dmcID} <br/>
+                {this.props.hex}
             </div>
         );
     }

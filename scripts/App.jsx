@@ -1,6 +1,7 @@
 import React from 'react';
 import Grid from './grid.jsx';
-import ColorPicker from './colorpicker.jsx'
+import ColorPicker from './colorpicker.jsx';
+import ColorContainer from './color-container.jsx';
 
 export default class App extends React.Component {
 	constructor(props) {
@@ -40,7 +41,11 @@ export default class App extends React.Component {
 					disabled
 				/>
 				{this.state.error ? <div className="error">{this.state.error}</div> : ''}
-				<ColorPicker onColorChange={(color) => this.colorChanged(color)} currentColor={this.state.selectedColor}/>
+				<ColorContainer 
+					onColorChange={(color) => this.colorChanged(color)} 
+					currentColor={this.state.selectedColor}
+				/>
+				{/* <ColorPicker onColorChange={(color) => this.colorChanged(color)} currentColor={this.state.selectedColor}/> */}
 				<Grid size={this.state.size} color={this.state.selectedColor}/>
 			</div>);
 	}
